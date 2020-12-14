@@ -1,9 +1,0 @@
-/* Remove padding at small screen sizes */
-@media screen and (max-width: 400px){
-    #content{
-        padding: 0%;
-    }
-    body{ /* Browser default */
-        margin: 8px;
-    }
-}
