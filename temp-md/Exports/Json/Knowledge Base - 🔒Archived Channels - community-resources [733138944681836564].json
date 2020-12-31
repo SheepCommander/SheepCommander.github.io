@@ -1,0 +1,618 @@
+{
+  "guild": {
+    "id": "648294947123888128",
+    "name": "Knowledge Base",
+    "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\a56bcbda5ea1db3e101c6895440d1c5b-CBC3F.png"
+  },
+  "channel": {
+    "id": "733138944681836564",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDD12Archived Channels",
+    "name": "community-resources",
+    "topic": "Useful things from our community (Not advertising)"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "733333370863484939",
+      "type": "Default",
+      "timestamp": "2020-07-16T14:45:00.289+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Contains \u0060entity_types\u0060 folder with entities sorted to categories: \u0060boss_mob\u0060 \u0060hostile\u0060 \u0060living\u0060 \u0060neutral\u0060 \u0060non_mob\u0060 \u0060passive\u0060 \u0060undead\u0060 \u0060unused\u0060",
+      "author": {
+        "id": "349598495264735233",
+        "name": "Zefyro",
+        "discriminator": "2750",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\d9fcc819e263eddb136dd3798658d682-493BA.png"
+      },
+      "attachments": [
+        {
+          "id": "733333370741719090",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\entity_types-9C79A.zip",
+          "fileName": "entity_types.zip",
+          "fileSizeBytes": 2543
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "733766333401006082",
+      "type": "Default",
+      "timestamp": "2020-07-17T19:25:26.602+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "contains info about default attributes as well as other info about attributes:\nhttps://minecraft.gamepedia.com/Attribute",
+      "author": {
+        "id": "546057672546582547",
+        "name": "foof\uD83C\uDF84",
+        "discriminator": "3527",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\aba03018e3cfe02349ab50211a923065-CF62C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "733768872049508385",
+      "type": "Default",
+      "timestamp": "2020-07-17T19:35:31.863+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Contains the names of every stat.  Useful when making scoreboard objectives.\nhttps://minecraft.gamepedia.com/Statistics#Statistic_types_and_names",
+      "author": {
+        "id": "355164792517951491",
+        "name": "TheRedWaffles",
+        "discriminator": "8963",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\ede0fadbae07f6c3b2affc2382c147c7-C36FC.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "735555402342727711",
+      "type": "Default",
+      "timestamp": "2020-07-22T17:54:33.877+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Contains Default Minecraft Generation\nSettings\nhttps://github.com/slicedlime/examples/raw/master/vanilla_worldgen.zip",
+      "author": {
+        "id": "318824199823163392",
+        "name": "Pratyush",
+        "discriminator": "0421",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\dcd670a3c40b07a91d0f959140f29196-C2BE4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "752533613630980136",
+      "type": "Default",
+      "timestamp": "2020-09-07T14:19:54.888+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Order in which advancement checks happen",
+      "author": {
+        "id": "372715536121069578",
+        "name": "asdru",
+        "discriminator": "3882",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\bbb27a6e37ce288de87749999058aeb2-4461E.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "752533896230469692",
+      "type": "Default",
+      "timestamp": "2020-09-07T14:21:02.265+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "372715536121069578",
+        "name": "asdru",
+        "discriminator": "3882",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\bbb27a6e37ce288de87749999058aeb2-4461E.png"
+      },
+      "attachments": [
+        {
+          "id": "752533892954849280",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\meB4V6V-95459.png",
+          "fileName": "meB4V6V.png",
+          "fileSizeBytes": 133339
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\1f44d-1485B.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "757321140174585926",
+      "type": "Default",
+      "timestamp": "2020-09-20T19:23:50.164+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/XyCey6T\nworldgen datapack discord",
+      "author": {
+        "id": "546057672546582547",
+        "name": "foof\uD83C\uDF84",
+        "discriminator": "3527",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\aba03018e3cfe02349ab50211a923065-CF62C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760206263429890071",
+      "type": "Default",
+      "timestamp": "2020-09-28T18:28:17.151+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Made by mbletz https://www.youtube.com/playlist?list=PL5bLe2gBDh9tTTH75Y-14rR05ptkCZwWb",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Learn Minecraft Commands",
+          "url": "https://www.youtube.com/playlist?list=PL5bLe2gBDh9tTTH75Y-14rR05ptkCZwWb",
+          "timestamp": null,
+          "description": "Order goes from EASIEST at the bottom to HARDEST at the top. Videos don\u0027t help with everything, so read these as well: https://minecraft.gamepedia.com/Comman...",
+          "color": "#FF0000",
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\hqdefault-814CA.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "761303804280700938",
+      "type": "Default",
+      "timestamp": "2020-10-01T19:09:31.281+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A bunch of resource pack info I put together, including the layout of icons.png\nhttps://www.beatso.tk/resource-pack-info",
+      "author": {
+        "id": "634776327299399721",
+        "name": "Beatso",
+        "discriminator": "1815",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\7bfde9060928ba3b1519e3a46e9f4b35-878DD.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Beatso - Resource Pack Info (for creators)",
+          "url": "https://www.beatso.tk/resource-pack-info",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\1f44d-1485B.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "761700197742542898",
+      "type": "Default",
+      "timestamp": "2020-10-02T21:24:38.847+00:00",
+      "timestampEdited": "2020-10-02T21:25:38.362+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "execute as @e[dx=0] positioned ~-0.99 ~-0.99 ~-0.99 if entity @s[dx=0]\ndx=0 basically creates a 1x1 cube in all positive xyz directions starting from the point of execution and checks if the entity\u0027s hitbox is intersecting with that cube\nthen you position it -1 block away in all directions and test for dx=0 again\nso now you have 2 cubes with one of their corners touching the other cube\u0027s corner - the intersection is a point\nthis checks if the entity\u0027s hitbox is touching both of those cubes or in this case, the point created by the two cubes\n\nyou can tweak the positions to get the desired hitbox too - like when you want to detect if it\u0027s in the player\u0027s head\nexecute positioned ~0.0625 ~-0.0625 ~0.0625 as @e[dx=0] positioned ~-1.0625 ~-2.375 ~-1.0625 if entity @s[dx=0]\nmspaint thing to work out the numbers for the head hitbox\nhttps://cdn.discordapp.com/attachments/300707518278270980/761470369130479616/unknown.png",
+      "author": {
+        "id": "372715536121069578",
+        "name": "asdru",
+        "discriminator": "3882",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\bbb27a6e37ce288de87749999058aeb2-4461E.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/300707518278270980/761470369130479616/unknown.png",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\unknown-EF165.png",
+            "width": 484,
+            "height": 843
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "764363353061195777",
+      "type": "Default",
+      "timestamp": "2020-10-10T05:47:04.554+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have stolen mcstaker html for minecrafts list of entities, blocks, and items and turned them into text files of there ids in alphabetical order. Though I would post the link here for anyone that needed it. https://github.com/C0D3Crafter/Minecraft/tree/master/Lists/1.16.3",
+      "author": {
+        "id": "458885976509644810",
+        "name": "C0D3Crafter",
+        "discriminator": "9624",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\8d0d07d3c0a4b77b474a613318518bbe-AA9FB.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "C0D3Crafter/Minecraft",
+          "url": "https://github.com/C0D3Crafter/Minecraft/tree/master/Lists/1.16.3",
+          "timestamp": null,
+          "description": "Resource packs, Datapacks, and other things for Minecraft - C0D3Crafter/Minecraft",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\70412835-1B597",
+            "width": 400,
+            "height": 400
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "764427065473630208",
+      "type": "Default",
+      "timestamp": "2020-10-10T10:00:14.777+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is custom tags I have created. It gives you the block groups Minecraft doesn\u0027t seem to have like glass. https://github.com/C0D3Crafter/Minecraft/tree/master/Codes_Better_Tags",
+      "author": {
+        "id": "458885976509644810",
+        "name": "C0D3Crafter",
+        "discriminator": "9624",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\8d0d07d3c0a4b77b474a613318518bbe-AA9FB.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "C0D3Crafter/Minecraft",
+          "url": "https://github.com/C0D3Crafter/Minecraft/tree/master/Codes_Better_Tags",
+          "timestamp": null,
+          "description": "Resource packs, Datapacks, and other things for Minecraft - C0D3Crafter/Minecraft",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\70412835-1B597",
+            "width": 400,
+            "height": 400
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "765629944956190761",
+      "type": "Default",
+      "timestamp": "2020-10-13T17:40:03.594+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://colorize.fun/en/minecraft\ngradient json generator",
+      "author": {
+        "id": "372715536121069578",
+        "name": "asdru",
+        "discriminator": "3882",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\bbb27a6e37ce288de87749999058aeb2-4461E.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Colorize FUN",
+          "url": "https://colorize.fun/en/minecraft",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF08",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\1f308-4D8DE.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f3f3-200d-1f308.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC9A",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\1f49a-DE435.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF49",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\1f349-25942.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\1f4af-F7F15.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "760553346703687741",
+            "name": "this",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\760553346703687741-FC185.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "746746280000094260",
+            "name": "upvote",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\746746280000094260-019CC.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "761667804772171787",
+            "name": "microchan",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\761667804772171787-7F206.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "755225017125437542",
+            "name": "owo",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\755225017125437542-5FA27.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD75",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\1f975-65352.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "765631470303051806",
+      "type": "Default",
+      "timestamp": "2020-10-13T17:46:07.265+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/kemo14331/Particle-Converter/releases",
+      "author": {
+        "id": "372715536121069578",
+        "name": "asdru",
+        "discriminator": "3882",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\bbb27a6e37ce288de87749999058aeb2-4461E.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Releases \u00B7 kemo14331/Particle-Converter",
+          "url": "https://github.com/kemo14331/Particle-Converter/releases",
+          "timestamp": null,
+          "description": "\u753B\u50CF\u30D5\u30A1\u30A4\u30EB\u3092mcfunction\u306B\u5909\u63DB\u3059\u308B\u30C4\u30FC\u30EB. Contribute to kemo14331/Particle-Converter development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\38379517-C7313",
+            "width": 400,
+            "height": 400
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "771784260071718940",
+      "type": "Default",
+      "timestamp": "2020-10-30T17:15:06.659+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "771784257575059466",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\unknown-0D08D.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 546614
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "776250294421946419",
+      "type": "Default",
+      "timestamp": "2020-11-12T01:01:32.223+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1.17 replaceitem Converter       \n- Requires python\n- Converts /replaceitem to 1.17 /item format\n- Put in datapack root folder and run to recursively search through all mcfunction files inside \n\u0060\u0060\u0060./data/*\nreplaceitem entity @a weapon.mainhand diamond_sword{tag:{blah:1}} 1\nreplaceitem block ~ ~ ~ container.0 diamond_sword{tag:{blah:1}} 1\u0060\u0060\u0060\n\nBecomes\n\u0060\u0060\u0060item entity @a weapon.mainhand replace diamond_sword{tag:{blah:1}} 1\nitem block ~ ~ ~ container.0 replace diamond_sword{tag:{blah:1}} 1\u0060\u0060\u0060\n\n \nLink: https://gist.github.com/onnowhere/66c439cf7088d370827c374a68033ed1 (edited",
+      "author": {
+        "id": "725690304157450281",
+        "name": "SwiPE",
+        "discriminator": "7728",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\d1ab933aa4ec06760886056f8c8c9d02-4158C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787114834034294844",
+      "type": "Default",
+      "timestamp": "2020-12-12T00:33:20.32+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u0060\u0060\u0060execute store success toggle var if score toggle var matches 0\u0060\u0060\u0060",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787115134652907540",
+      "type": "Default",
+      "timestamp": "2020-12-12T00:34:31.993+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Toggle a score from 1 to 0 and vice versa using only one command definetly not stolen from mcc",
+      "author": {
+        "id": "732244828393308333",
+        "name": "yoyo~kween",
+        "discriminator": "2383",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\2c6e72f191b424a0a25eca5dc5f6fff4-E9AFE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789658631368998942",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:01:28.866+00:00",
+      "timestampEdited": "2020-12-19T01:02:07.106+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Vdvman MCC\n\u003E Predicates are slower than a standard selector argument, however they are able to do certain checks more efficiently than a selector argument.\n\u003E Specifically, using \u0060nbt=\u0060 to check the mainhand, offhand, or armour requires loading the NBT of the entire player, whereas using a predicate you can test these without using NBT at all using the \u0060entity_properties\u0060 condition\n\u003E Predicates are also capable of doing an OR, whereas commands aren\u0027t able to directly, so using a predicate for an OR can often reduce the number of commands that need to run\n\u003E There are also things where you have to use a predicate because commands aren\u0027t even able to test for them",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - community-resources [733138944681836564].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 19
+}

@@ -1,0 +1,97 @@
+{
+  "guild": {
+    "id": "648294947123888128",
+    "name": "Knowledge Base",
+    "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - ❔about [736651509227585607].json_Files\\a56bcbda5ea1db3e101c6895440d1c5b-CBC3F.png"
+  },
+  "channel": {
+    "id": "736651509227585607",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDD12Archived Channels",
+    "name": "❔about",
+    "topic": "What this server is about! (Basically the advertisement for this server)"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "736651632342859806",
+      "type": "Default",
+      "timestamp": "2020-07-25T18:30:35.476+00:00",
+      "timestampEdited": "2020-12-19T21:23:11.235+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--= **Knowledge Base** =--\n> a Discord Server for Commanders, Datapackers, Resource Packers or anyone who wants to begin/learn\n\n**Content:**\n• A compiled list of Tools and Generators for Resource Packs, Commands, and Datapacks.\n• FAQs in the industry and answers to said questions\n• Pros and Cons to common debates\n• A list of acronyms commonly and what they stand for\n• Lists of Text Editor Plugins for making Datapacks\n• A list of discord servers to ask for help with Plugins, Modding, Playtesting and Redstone\n• The community is fun and cursed but only in #general\n\n**Server:**\n• Reaction Roles to hide unwanted channels, reveal extra channels, and tell us to not ping you\n• Getting pinged is always voluntary through Reaction Roles, this means `@here`/`@everyone` is NEVER used\n• **You can swear here!**\n\n**Invite Link:** \nhttps://discord.gg/xpNJdH9",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander☭\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - ❔about [736651509227585607].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791777318053216276",
+      "type": "Default",
+      "timestamp": "2020-12-24T21:20:23.135+00:00",
+      "timestampEdited": "2020-12-27T10:02:19.037+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--= **What happened to Tools & Resources category?** =--\nWe decided that using Channels is not the best way to store or access our Resources, and plan to move it to a website.\n\nHOWEVER while that website is still being setup __all our resources are temporarily stored on a GitHub repository here__ \n> \uD83D\uDD17 https://github.com/SheepCommander/KnowledgeBase\n\n**What's GitHub?**\nGitHub is a way to share and view files on the internet and allow the community to easily suggest changes.\n\n**How do you use it?**\nTo navigate it is much the same as navigating a bunch of files. Go to the website, click on `1.16.4` then find what resource you want. \nEach resource has a `viewable-github-paste.md` and a `raw-discord-paste.txt`. I hope I don't have to explain what this means.\n\n**Some other plans**\nBots @Knowledge Bot and @MMK21Games that are meant to be able to grab resources from the GitHub and send them here.\n\nI also plan to setup \"triggers\"/\"auto responders\" on good ol' @Carl-bot to automatically answer easily solved questions.",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander☭\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - ❔about [736651509227585607].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SheepCommander/KnowledgeBase",
+          "url": "https://github.com/SheepCommander/KnowledgeBase",
+          "timestamp": null,
+          "description": "Raw pastes, downloadable templates, and perhaps more from Knowledge Base - https://discord.gg/xpNJdH9 - SheepCommander/KnowledgeBase",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - ❔about [736651509227585607].json_Files\\66646514-B02D1",
+            "width": 400,
+            "height": 400
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "235148962103951360",
+          "name": "Carl-bot",
+          "discriminator": 1536,
+          "nickname": "Carl-bot",
+          "isBot": true
+        },
+        {
+          "id": "738847077014175884",
+          "name": "MMK21Games",
+          "discriminator": 9746,
+          "nickname": "MMK21Bot (^)",
+          "isBot": true
+        },
+        {
+          "id": "782818919336902676",
+          "name": "Knowledge Bot",
+          "discriminator": 2366,
+          "nickname": "Knowledge Bot (k!)",
+          "isBot": true
+        }
+      ]
+    }
+  ],
+  "messageCount": 2
+}

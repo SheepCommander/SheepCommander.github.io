@@ -1,0 +1,905 @@
+{
+  "guild": {
+    "id": "648294947123888128",
+    "name": "Knowledge Base",
+    "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\a56bcbda5ea1db3e101c6895440d1c5b-CBC3F.png"
+  },
+  "channel": {
+    "id": "783430616145723442",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDD12Archived Channels",
+    "name": "jpi-and-like-goals",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "784567224526307378",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:50:02.881+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--= **John Paul Inso and Like goals** =--\nFirst of all **some thoughts on like goals**:\n\u2022 Like goal like \u0022I\u0027ll continue the series if this video hits ### views\u0022 make sense because there\u0027s no point in continuing content that your viewers don\u0027t like\n\u2022 HOWEVER, hiding content behind like goals (such as JPI hiding datapack downloads behind like goals) is really a pretty shitty move.\n\u2022 EVEN WORSE, hiding content behind like goals FOR A TUTORIAL. Now this is straight up asshole, it shows clearly that you don\u0027t actually care to teach people",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784567243232510002",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:50:07.341+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784567932080226325",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:52:51.575+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "damn it",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784567956871839795",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:52:57.486+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I forgot the video where he did it",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784568041840574495",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:53:17.744+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I shouldn\u0027t have purged all so quickly",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784569904140648479",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:00:41.751+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok then hear me out",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784569987985571852",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:01:01.741+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there was a tutorial JPI made except the video had to get to 500 likes before he releases the download",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784570031883026503",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:01:12.207+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the problem is I can\u0027t find it anymore so we\u0027ll have to find different examples",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784570035280019476",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:01:13.017+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784570137465323530",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:01:37.38+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--= **1k likes?** =--\nhttps://www.youtube.com/watch?v=2ay1yizDAZA\u0026t=60s",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "So I made the ICEOLOGER in Minecraft... [Datapack] (Minecon Mob Chi...",
+          "url": "https://www.youtube.com/watch?v=2ay1yizDAZA\u0026start=60s",
+          "timestamp": null,
+          "description": "So I made the BEST ICEOLOGER in Minecraft. Dream voted for squid. Minecraft\u0027s Minecon Mobe Vote, there were 2 other mobs that were supposed to be added.\n\u27A4 CLICK SHOW MORE\n\u2585\u2585\u2585\u2585\u2585\u2585\u2585\u2585\u2585\u2585\u2585\u2585\u2585\u2585\u2585\u2585\u2585\u2585\u2585\u2585\u2585\n\u275D Welcome to John Paul Inso\u0027s Channel! I make fun and useful ways with command blocks and datapacks for you to play with your friends and improve your wor...",
+          "color": "#FF0000",
+          "author": {
+            "name": "John Paul Inso",
+            "url": "https://www.youtube.com/channel/UC6Rtp0D7qMZ1asHSsClA29Q"
+          },
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\maxresdefault-B03D2.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784570216129626192",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:01:56.135+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In this video he requests 1000 fucking likes, which is more likes than he\u0027s ever gotten.",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784570299957641236",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:02:16.121+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "BUT THE BEST PART IS THAT HE STILL RELEASES THE DOWNLOAD ANYWAYS I DON\u0027T EVEN KNOW WHAT TO SAY",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784570296388157450",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\unknown-9FE47.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 20999
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784570376830058496",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:02:34.449+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784570373882511361",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\unknown-9774E.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 25733
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786321980286304296",
+      "type": "Default",
+      "timestamp": "2020-12-09T20:02:49.256+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "he dont want anything about likes",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786322173206986774",
+      "type": "Default",
+      "timestamp": "2020-12-09T20:03:35.252+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No he sets like goals and attempts (but fails) to hide content behind said like goals",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "731879499653840916",
+          "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+          "discriminator": 5367,
+          "nickname": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "786322222436450326",
+      "type": "Default",
+      "timestamp": "2020-12-09T20:03:46.989+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no like attempt",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786322248726347818",
+      "type": "Default",
+      "timestamp": "2020-12-09T20:03:53.257+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pretty sure he did that because of us",
+      "author": {
+        "id": "524430573964361733",
+        "name": "Anthony2be",
+        "discriminator": "1900",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\a064a3c103c5a6547ddf20d2c05b1875-F6072.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "511656055974133780",
+          "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+          "discriminator": 1511,
+          "nickname": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "786322303394775050",
+      "type": "Default",
+      "timestamp": "2020-12-09T20:04:06.291+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lmao",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786322381907689480",
+      "type": "Default",
+      "timestamp": "2020-12-09T20:04:25.01+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if he wants like",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786322417105502218",
+      "type": "Default",
+      "timestamp": "2020-12-09T20:04:33.402+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "he will do just",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786322439499808783",
+      "type": "Default",
+      "timestamp": "2020-12-09T20:04:38.741+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "enchantmants",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786398445493551125",
+      "type": "Default",
+      "timestamp": "2020-12-10T01:06:39.982+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Asking ppl for some sort of result before giving them information shows that you do not care about helping ppl, just pumping ur numbers / revenue. No debate, just a fact.",
+      "author": {
+        "id": "312743067461353483",
+        "name": "Cloud Wolf",
+        "discriminator": "5592",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\4b14bfc99fd523c50cf922049ea77f89-B779C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786398446525480991",
+      "type": "Default",
+      "timestamp": "2020-12-10T01:06:40.228+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cloud Wolf#5592 just evolved to become... ||2yo and horny :person_dabbing:|| \n||Fine your lvl is \u00601\u0060, use \u0060!rank\u0060/\u0060!levels\u0060 in #\uD83E\uDD16bot-commands||",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\b50adff099924dd5e6b72d13f77eb9d7-A48AE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786398594759393290",
+      "type": "Default",
+      "timestamp": "2020-12-10T01:07:15.57+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I wonder if raymed meant to say \u0022He don\u0027t want anything *but* likes\u0022",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "786398592276627467",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\unknown-5002F.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 12933
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786398595917152267",
+      "type": "Default",
+      "timestamp": "2020-12-10T01:07:15.846+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You can make your own Elemental bows using Cloud Wolf\u0027s tutorial on custom bow enchants",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786398870053584896",
+      "type": "Default",
+      "timestamp": "2020-12-10T01:08:21.205+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "^ i also have the whole dl in the desc i believe, cause i care about ppl having good content and i dont care about views in the slightest",
+      "author": {
+        "id": "312743067461353483",
+        "name": "Cloud Wolf",
+        "discriminator": "5592",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\4b14bfc99fd523c50cf922049ea77f89-B779C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786910497827454986",
+      "type": "Default",
+      "timestamp": "2020-12-11T11:01:22.772+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9 CommandGeek hides datapack downloads behind like goals",
+      "author": {
+        "id": "523238128325230622",
+        "name": "Quackleb",
+        "discriminator": "6473",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\7aea0d1ac9f92c5ee79c40d2f52669ea-E1AE6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "511656055974133780",
+          "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+          "discriminator": 1511,
+          "nickname": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "787001877455568967",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:04:29.373+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes and i also think thats kinda scummy",
+      "author": {
+        "id": "312743067461353483",
+        "name": "Cloud Wolf",
+        "discriminator": "5592",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\4b14bfc99fd523c50cf922049ea77f89-B779C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787001903849537617",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:04:35.666+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "either just have it out there or not at all",
+      "author": {
+        "id": "312743067461353483",
+        "name": "Cloud Wolf",
+        "discriminator": "5592",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\4b14bfc99fd523c50cf922049ea77f89-B779C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787002180765876294",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:05:41.688+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "saying someone else does something doesnt justify it. just cause jeffry daumer ate ppl doesnt mean its ok for u to eat ppl",
+      "author": {
+        "id": "312743067461353483",
+        "name": "Cloud Wolf",
+        "discriminator": "5592",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\4b14bfc99fd523c50cf922049ea77f89-B779C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787005536633356329",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:19:01.789+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I know, and you\u0027ll see me in his server occasionally tell people CommandGeek is another Child YTer who hides behind like goals, probably most critical thing you\u0027ll see on his server",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "523238128325230622",
+          "name": "Quackleb",
+          "discriminator": 6473,
+          "nickname": "Quackleb",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "787014286719188992",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:53:47.972+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "da heck",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787014302812733460",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:53:51.809+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i was reading somthing",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787014315558699049",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:53:54.848+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "heck you sheep",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787014328980471858",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:53:58.048+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "IJBEJHFBUAHWBFAWIEUF",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787014344960639026",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:54:01.858+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "SHEEP BLOcKING THe MeDiA",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787014402300706887",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:54:15.529+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Go complain about Command Geek in #\uD83D\uDCACgeneral or smth",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787014484538949643",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:54:35.136+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hes tryna keep this about like goals",
+      "author": {
+        "id": "312743067461353483",
+        "name": "Cloud Wolf",
+        "discriminator": "5592",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\4b14bfc99fd523c50cf922049ea77f89-B779C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787014492100886609",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:54:36.939+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok fair enough",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789390087430471680",
+      "type": "Default",
+      "timestamp": "2020-12-18T07:14:23.002+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "743862094134509578",
+        "name": "HelpMate",
+        "discriminator": "8798",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\a2a9a17251bbb594380a9b89108196a8-6CAA2.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A slowmode of 1s has been activated by a moderator.",
+          "url": null,
+          "timestamp": "2020-12-18T07:14:22.625+00:00",
+          "description": "",
+          "color": "#363940",
+          "footer": {
+            "text": "Applied by \uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9#1511",
+            "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-and-like-goals [783430616145723442].json_Files\\382b515765ba3155c7461c9842c0cb88-2640B.webp"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 40
+}
