@@ -1,0 +1,20 @@
+site_name: Knowledge Base
+theme:
+  name: material
+  palette:
+    scheme: preference
+    primary: blue # PRIMARY COLOUR HERE
+    accent: orange # SECONDARY COLOR HERE
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    # See https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
+repo_url: https://github.com/SheeepCommander/SheepCommander.github.io
+#repo_name: SheeepCommander/SheepCommander.github.io
+copyright: This unofficial site is not associated/approved by Mojang.
+markdown_extensions:
+  - toc:
+      permalink: true
+extra:
+  version:
+    method: mike
