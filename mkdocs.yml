@@ -1,20 +1,47 @@
 site_name: Knowledge Base
 theme:
-  name: material
+  name: 'material'
   palette:
-    scheme: preference
-    primary: blue # PRIMARY COLOUR HERE
-    accent: orange # SECONDARY COLOR HERE
-  icon:
-    repo: fontawesome/brands/github
+    # Toggle light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+    # Toggle dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+  font:
+    text: 'Roboto'
+    code: 'Fira Mono'
+  language: en
+  logo: 'images/favicon.png'
+  favicon:
+    'images/favicon.png'
   features:
-    # See https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
-repo_url: https://github.com/SheeepCommander/SheepCommander.github.io
-#repo_name: SheeepCommander/SheepCommander.github.io
-copyright: This unofficial site is not associated/approved by Mojang.
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+
+repo_name: 'SheepCommander.github.io'
+repo_url: 'https://github.com/SheeepCommander/SheepCommander.github.io'
+
 markdown_extensions:
   - toc:
       permalink: true
 extra:
   version:
     method: mike
+
+plugins:
+  - search:
+      lang: en
+
+copyright: This unofficial site is not associated/approved by Mojang.
