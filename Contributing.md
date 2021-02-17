@@ -32,6 +32,7 @@
 - Use `datapack`, not `DataPack` or `data pack`
 - Use `resourcepack`, not `ResourcePack` or `resource pack`
 - Use correct spelling and grammar
+- Since we're using MD all bullet points will have to be `- `, not `-` or `+` or `•`
 
 ### Paste format
 Pastes are written in Discord's subset of markdown.

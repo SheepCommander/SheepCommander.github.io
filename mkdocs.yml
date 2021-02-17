@@ -26,7 +26,6 @@ theme:
   features:
     - navigation.instant
     - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
     - navigation.indexes
 
@@ -36,9 +35,6 @@ repo_url: 'https://github.com/SheeepCommander/SheepCommander.github.io'
 markdown_extensions:
   - toc:
       permalink: true
-extra:
-  version:
-    method: mike
 
 plugins:
   - search:
