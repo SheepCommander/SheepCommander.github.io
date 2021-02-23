@@ -1,36 +1,42 @@
+# Project information
 site_name: Knowledge Base
+site_url: https://squidfunk.github.io/mkdocs-material/
+site_author: SheepCommander, Anthonietta, KodingKat & MMK21
+site_description: Find resources for MineCraft commands, datapacks, & resource packs
+
+# Repository
+repo_name: SheepCommander/SheepCommander.github.io
+repo_url: https://github.com/SheepCommander/SheepCommander.github.io
+edit_uri: ""
+
+# Copyright
+copyright: This unofficial site is not associated/approved by Mojang.
+
+# Configuration
 theme:
   name: 'material'
-  palette:
-    # Toggle light mode
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
-    # Toggle dark mode
-    - scheme: slate
-      primary: blue
-      accent: blue
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-  font:
-    text: 'Roboto'
-    code: 'Fira Mono'
-  language: en
-  logo: 'images/favicon.png'
-  favicon:
-    'images/favicon.png'
-  features:
-    - navigation.instant
-    - navigation.tabs
-    - navigation.sections
-    - navigation.indexes
 
-repo_name: 'SheepCommander.github.io'
-repo_url: 'https://github.com/SheeepCommander/SheepCommander.github.io'
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    # - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
+
 
 markdown_extensions:
   - toc:
@@ -39,5 +45,3 @@ markdown_extensions:
 plugins:
   - search:
       lang: en
-
-copyright: This unofficial site is not associated/approved by Mojang.
