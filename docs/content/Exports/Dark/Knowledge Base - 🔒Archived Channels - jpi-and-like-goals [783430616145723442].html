@@ -1,0 +1,1463 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Knowledge Base - jpi-and-like-goals</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+
+    <style>
+        /* General */
+
+@font-face {
+    font-family: Whitney;
+    src: url(https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-300.woff);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: Whitney;
+    src: url(https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-400.woff);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Whitney;
+    src: url(https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-500.woff);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Whitney;
+    src: url(https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-600.woff);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: Whitney;
+    src: url(https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-700.woff);
+    font-weight: 700;
+}
+
+body {
+    font-family: "Whitney", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    object-fit: contain;
+}
+
+.markdown {
+    max-width: 100%;
+    line-height: 1.3;
+    overflow-wrap: break-word;
+}
+
+.preserve-whitespace {
+    white-space: pre-wrap;
+}
+
+.spoiler {
+    /* width: fit-content; */
+    display: inline-block;
+    /* This is more consistent across browsers, the old attribute worked well under Chrome but not FireFox. */
+}
+
+.spoiler--hidden {
+    cursor: pointer;
+}
+
+.spoiler-text {
+    border-radius: 3px;
+}
+
+.spoiler--hidden .spoiler-text {
+    color: rgba(0, 0, 0, 0);
+}
+
+.spoiler--hidden .spoiler-text::selection {
+    color: rgba(0, 0, 0, 0);
+}
+
+.spoiler-image {
+    position: relative;
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+.spoiler--hidden .spoiler-image {
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.spoiler--hidden .spoiler-image * {
+    filter: blur(44px);
+}
+
+    .spoiler--hidden .spoiler-image:after {
+        content: "SPOILER";
+        color: #dcddde;
+        background-color: rgba(0, 0, 0, 0.6);
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        font-weight: 600;
+        /* padding: 0.5em 0.7em; */
+        padding: 100%;
+        /* This ruins those beutifully rounded buttons, but it's needed to prevent a FireFox bug with video and audio elemnts. */
+        /* The bug is that you can click trough the spoiler layer and play the video or audio, I could not identify the cause. */
+        /* I leave this here, in case someone is brave enough to venture in to madness that is undocumented browser behaviour. */
+        border-radius: 20px;
+        letter-spacing: 0.05em;
+        font-size: 0.9em;
+    }
+
+.spoiler--hidden:hover .spoiler-image:after {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.quote {
+    margin: 0.1em 0;
+    padding-left: 0.6em;
+    border-left: 4px solid;
+    border-radius: 3px;
+}
+
+.pre {
+    font-family: "Consolas", "Courier New", Courier, monospace;
+}
+
+.pre--multiline {
+    margin-top: 0.25em;
+    padding: 0.5em;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+.pre--inline {
+    padding: 2px;
+    border-radius: 3px;
+    font-size: 0.85em;
+}
+
+.mention {
+    border-radius: 3px;
+    padding: 0 2px;
+    color: #7289da;
+    background: rgba(114, 137, 218, .1);
+    font-weight: 500;
+}
+
+.emoji {
+    width: 1.25em;
+    height: 1.25em;
+    margin: 0 0.06em;
+    vertical-align: -0.4em;
+}
+
+.emoji--small {
+    width: 1em;
+    height: 1em;
+}
+
+.emoji--large {
+    width: 2.8em;
+    height: 2.8em;
+}
+
+/* Preamble */
+
+.preamble {
+    display: grid;
+    margin: 0 0.3em 0.6em 0.3em;
+    max-width: 100%;
+    grid-template-columns: auto 1fr;
+}
+
+.preamble__guild-icon-container {
+    grid-column: 1;
+}
+
+.preamble__guild-icon {
+    max-width: 88px;
+    max-height: 88px;
+}
+
+.preamble__entries-container {
+    grid-column: 2;
+    margin-left: 0.6em;
+}
+
+.preamble__entry {
+    font-size: 1.4em;
+}
+
+.preamble__entry--small {
+    font-size: 1em;
+}
+
+/* Chatlog */
+
+.chatlog {
+    max-width: 100%;
+}
+
+.chatlog__message-group {
+    display: grid;
+    margin: 0 0.6em;
+    padding: 0.9em 0;
+    border-top: 1px solid;
+    grid-template-columns: auto 1fr;
+}
+
+.chatlog__author-avatar-container {
+    grid-column: 1;
+    width: 40px;
+    height: 40px;
+}
+
+.chatlog__author-avatar {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+}
+
+.chatlog__messages {
+    grid-column: 2;
+    margin-left: 1.2em;
+    min-width: 50%;
+}
+
+.chatlog__author-name {
+    font-weight: 500;
+}
+
+.chatlog__timestamp {
+    margin-left: 0.3em;
+    font-size: 0.75em;
+}
+
+.chatlog__message {
+    padding: 0.1em 0.3em;
+    margin: 0 -0.3em;
+    background-color: transparent;
+    transition: background-color 1s ease;
+}
+
+.chatlog__content {
+    font-size: 0.95em;
+    word-wrap: break-word;
+}
+
+.chatlog__edited-timestamp {
+    margin-left: 0.15em;
+    font-size: 0.8em;
+}
+
+.chatlog__attachment {
+    margin-top: 0.3em;
+}
+
+.chatlog__attachment-thumbnail {
+    vertical-align: top;
+    max-width: 45vw;
+    max-height: 500px;
+    border-radius: 3px;
+}
+
+.chatlog__embed {
+    display: flex;
+    margin-top: 0.3em;
+    max-width: 520px;
+}
+
+.chatlog__embed-color-pill {
+    flex-shrink: 0;
+    width: 0.25em;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.chatlog__embed-content-container {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em 0.6em;
+    border: 1px solid;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.chatlog__embed-content {
+    display: flex;
+    width: 100%;
+}
+
+.chatlog__embed-text {
+    flex: 1;
+}
+
+.chatlog__embed-author {
+    display: flex;
+    margin-bottom: 0.3em;
+    align-items: center;
+}
+
+.chatlog__embed-author-icon {
+    margin-right: 0.5em;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.chatlog__embed-author-name {
+    font-size: 0.875em;
+    font-weight: 600;
+}
+
+.chatlog__embed-title {
+    margin-bottom: 0.2em;
+    font-size: 0.875em;
+    font-weight: 600;
+}
+
+.chatlog__embed-description {
+    font-weight: 500;
+    font-size: 0.85em;
+}
+
+.chatlog__embed-fields {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.chatlog__embed-field {
+    flex: 0;
+    min-width: 100%;
+    max-width: 506px;
+    padding-top: 0.6em;
+    font-size: 0.875em;
+}
+
+.chatlog__embed-field--inline {
+    flex: 1;
+    flex-basis: auto;
+    min-width: 150px;
+}
+
+.chatlog__embed-field-name {
+    margin-bottom: 0.2em;
+    font-weight: 600;
+}
+
+.chatlog__embed-field-value {
+    font-weight: 500;
+}
+
+.chatlog__embed-thumbnail {
+    flex: 0;
+    margin-left: 1.2em;
+    max-width: 80px;
+    max-height: 80px;
+    border-radius: 3px;
+}
+
+.chatlog__embed-image-container {
+    margin-top: 0.6em;
+}
+
+.chatlog__embed-image {
+    max-width: 500px;
+    max-height: 400px;
+    border-radius: 3px;
+}
+
+.chatlog__embed-footer {
+    margin-top: 0.6em;
+}
+
+.chatlog__embed-footer-icon {
+    margin-right: 0.2em;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.chatlog__embed-footer-text {
+    font-size: 0.75em;
+    font-weight: 500;
+}
+
+.chatlog__reactions {
+    display: flex;
+}
+
+.chatlog__reaction {
+    display: flex;
+    align-items: center;
+    margin: 0.35em 0.1em 0.1em 0.1em;
+    padding: 0.2em 0.35em;
+    border-radius: 3px;
+}
+
+.chatlog__reaction-count {
+    min-width: 9px;
+    margin-left: 0.35em;
+    font-size: 0.875em;
+}
+
+.chatlog__bot-tag {
+    position: relative;
+    top: -.2em;
+    margin-left: 0.3em;
+    padding: 0.05em 0.3em;
+    border-radius: 3px;
+    vertical-align: middle;
+    line-height: 1.3;
+    background: #7289da;
+    color: #ffffff;
+    font-size: 0.625em;
+    font-weight: 500;
+}
+
+/* Postamble */
+
+.postamble {
+    margin: 1.4em 0.3em 0.6em 0.3em;
+    padding: 1em;
+    border-top: 1px solid;
+}
+    </style>
+    <style>
+        /* General */
+
+body {
+    background-color: #36393e;
+    color: #dcddde;
+}
+
+a {
+    color: #0096cf;
+}
+
+.spoiler-text {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.spoiler--hidden .spoiler-text {
+    background-color: #202225;
+}
+
+.spoiler--hidden:hover .spoiler-text {
+    background-color: rgba(32, 34, 37, 0.8);
+}
+
+.quote {
+    border-color: #4f545c;
+}
+
+.pre {
+    background-color: #2f3136 !important;
+}
+
+.pre--multiline {
+    border-color: #282b30 !important;
+    color: #b9bbbe !important;
+}
+
+/* === Preamble === */
+
+.preamble__entry {
+    color: #ffffff;
+}
+
+/* Chatlog */
+
+.chatlog__message-group {
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.chatlog__author-name {
+    color: #ffffff;
+}
+
+.chatlog__timestamp {
+    color: rgba(255, 255, 255, 0.2);
+}
+
+.chatlog__message--highlighted {
+    background-color: rgba(114, 137, 218, 0.2) !important;
+}
+
+.chatlog__message--pinned {
+    background-color: rgba(249, 168, 37, 0.05);
+}
+
+.chatlog__edited-timestamp {
+    color: rgba(255, 255, 255, 0.2);
+}
+
+.chatlog__embed-color-pill--default {
+    background-color: rgba(79, 84, 92, 1);
+}
+
+.chatlog__embed-content-container {
+    background-color: rgba(46, 48, 54, 0.3);
+    border-color: rgba(46, 48, 54, 0.6);
+}
+
+.chatlog__embed-author-name {
+    color: #ffffff;
+}
+
+.chatlog__embed-author-name-link {
+    color: #ffffff;
+}
+
+.chatlog__embed-title {
+    color: #ffffff;
+}
+
+.chatlog__embed-description {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.chatlog__embed-field-name {
+    color: #ffffff;
+}
+
+.chatlog__embed-field-value {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.chatlog__embed-footer {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.chatlog__reaction {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.chatlog__reaction-count {
+    color: rgba(255, 255, 255, 0.3);
+}
+
+/* Postamble */
+
+.postamble {
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.postamble__entry {
+    color: #ffffff;
+}
+    </style>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/solarized-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('.pre--multiline').forEach(block => hljs.highlightBlock(block));
+        });
+    </script>
+
+    <script>
+        function scrollToMessage(event, id) {
+            var element = document.getElementById('message-' + id);
+
+            if (element) {
+                event.preventDefault();
+
+                element.classList.add('chatlog__message--highlighted');
+
+                window.scrollTo({
+                    top: element.getBoundingClientRect().top - document.body.getBoundingClientRect().top - (window.innerHeight / 2),
+                    behavior: 'smooth'
+                });
+
+                window.setTimeout(function() {
+                    element.classList.remove('chatlog__message--highlighted');
+                }, 2000);
+            }
+        }
+
+        function showSpoiler(event, element) {
+            if (element && element.classList.contains('spoiler--hidden')) {
+                event.preventDefault();
+                element.classList.remove('spoiler--hidden');
+            }
+        }
+    </script>
+</head>
+<body>
+
+<div class="preamble">
+    <div class="preamble__guild-icon-container">
+        <img class="preamble__guild-icon" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/a56bcbda5ea1db3e101c6895440d1c5b-CBC3F.png" alt="Guild icon">
+    </div>
+    <div class="preamble__entries-container">
+        <div class="preamble__entry">Knowledge Base</div>
+        <div class="preamble__entry">&#128274;Archived Channels / jpi-and-like-goals</div>
+
+
+    </div>
+</div>
+
+<div class="chatlog">
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/382b515765ba3155c7461c9842c0cb88-8D76B.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#128017;Sheep-kun; SheepCommander☭&#127913;#1511" data-user-id="511656055974133780" style="color: rgb(240,255,240)">&#128017;Sheep-kun; SheepCommander☭&#127913;</span>
+
+
+        <span class="chatlog__timestamp">04-Dec-20 03:50 PM</span>
+
+            <div class="chatlog__message " data-message-id="784567224526307378" id="message-784567224526307378">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">--= <strong>John Paul Inso and Like goals</strong> =--
+First of all <strong>some thoughts on like goals</strong>:
+• Like goal like &quot;I&#39;ll continue the series if this video hits ### views&quot; make sense because there&#39;s no point in continuing content that your viewers don&#39;t like
+• HOWEVER, hiding content behind like goals (such as JPI hiding datapack downloads behind like goals) is really a pretty shitty move.
+• EVEN WORSE, hiding content behind like goals FOR A TUTORIAL. Now this is straight up asshole, it shows clearly that you don&#39;t actually care to teach people</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="784567243232510002" id="message-784567243232510002">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">​</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="784567932080226325" id="message-784567932080226325">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">damn it</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="784567956871839795" id="message-784567956871839795">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">I forgot the video where he did it</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="784568041840574495" id="message-784568041840574495">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">I shouldn&#39;t have purged all so quickly</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/382b515765ba3155c7461c9842c0cb88-8D76B.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#128017;Sheep-kun; SheepCommander☭&#127913;#1511" data-user-id="511656055974133780" style="color: rgb(240,255,240)">&#128017;Sheep-kun; SheepCommander☭&#127913;</span>
+
+
+        <span class="chatlog__timestamp">04-Dec-20 04:00 PM</span>
+
+            <div class="chatlog__message " data-message-id="784569904140648479" id="message-784569904140648479">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">Ok then hear me out</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="784569987985571852" id="message-784569987985571852">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">there was a tutorial JPI made except the video had to get to 500 likes before he releases the download</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="784570031883026503" id="message-784570031883026503">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">the problem is I can&#39;t find it anymore so we&#39;ll have to find different examples</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="784570035280019476" id="message-784570035280019476">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">​</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="784570137465323530" id="message-784570137465323530">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">--= <strong>1k likes?</strong> =--
+<a href="https://www.youtube.com/watch?v=2ay1yizDAZA&t=60s">https://www.youtube.com/watch?v=2ay1yizDAZA&amp;t=60s</a></span>
+
+                        </div>
+                    </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(255,0,0,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+                                        <div class="chatlog__embed-author">
+
+                                                <span class="chatlog__embed-author-name">
+                                                        <a class="chatlog__embed-author-name-link" href="https://www.youtube.com/channel/UC6Rtp0D7qMZ1asHSsClA29Q">John Paul Inso</a>
+                                                </span>
+                                        </div>
+
+                                        <div class="chatlog__embed-title">
+                                                <a class="chatlog__embed-title-link" href="https://www.youtube.com/watch?v=2ay1yizDAZA&amp;start=60s">
+                                                    <div class="markdown preserve-whitespace">So I made the ICEOLOGER in Minecraft... [Datapack] (Minecon Mob Chi...</div>
+                                                </a>
+                                        </div>
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown preserve-whitespace">So I made the BEST ICEOLOGER in Minecraft. Dream voted for squid. Minecraft&#39;s Minecon Mobe Vote, there were 2 other mobs that were supposed to be added.
+➤ CLICK SHOW MORE
+▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅
+❝ Welcome to John Paul Inso&#39;s Channel! I make fun and useful ways with command blocks and datapacks for you to play with your friends and improve your wor...</div>
+                                        </div>
+
+                                </div>
+
+                                    <div class="chatlog__embed-thumbnail-container">
+                                        <a class="chatlog__embed-thumbnail-link" href="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/maxresdefault-B03D2.jpg">
+                                            <img class="chatlog__embed-thumbnail" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/maxresdefault-B03D2.jpg" alt="Thumbnail">
+                                        </a>
+                                    </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+            <div class="chatlog__message " data-message-id="784570216129626192" id="message-784570216129626192">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">In this video he requests 1000 fucking likes, which is more likes than he&#39;s ever gotten.</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="784570299957641236" id="message-784570299957641236">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">BUT THE BEST PART IS THAT HE STILL RELEASES THE DOWNLOAD ANYWAYS I DON&#39;T EVEN KNOW WHAT TO SAY</span>
+
+                        </div>
+                    </div>
+
+                    <div class="chatlog__attachment">
+                        <div class="" onclick="">
+                            <div class="">
+                                    <a href="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/unknown-9FE47.png">
+                                        <img class="chatlog__attachment-thumbnail" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/unknown-9FE47.png" alt="Image attachment" title="Image: unknown.png (20.51 KB)">
+                                    </a>
+                            </div>
+                        </div>
+                    </div>
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="784570376830058496" id="message-784570376830058496">
+
+                    <div class="chatlog__attachment">
+                        <div class="" onclick="">
+                            <div class="">
+                                    <a href="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/unknown-9774E.png">
+                                        <img class="chatlog__attachment-thumbnail" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/unknown-9774E.png" alt="Image attachment" title="Image: unknown.png (25.13 KB)">
+                                    </a>
+                            </div>
+                        </div>
+                    </div>
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/1e528b7f1f7d964ee13190505fae0283-92B26.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#119835;&#119845;乂R̸̿̿a̶͋͛ẏ̵͝m̴̌̊e̷̔͊d̶̋̍#5367" data-user-id="731879499653840916" style="">&#119835;&#119845;乂R̸̿̿a̶͋͛ẏ̵͝m̴̌̊e̷̔͊d̶̋̍</span>
+
+
+        <span class="chatlog__timestamp">09-Dec-20 12:02 PM</span>
+
+            <div class="chatlog__message " data-message-id="786321980286304296" id="message-786321980286304296">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">he dont want anything about likes</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/382b515765ba3155c7461c9842c0cb88-8D76B.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#128017;Sheep-kun; SheepCommander☭&#127913;#1511" data-user-id="511656055974133780" style="color: rgb(240,255,240)">&#128017;Sheep-kun; SheepCommander☭&#127913;</span>
+
+
+        <span class="chatlog__timestamp">09-Dec-20 12:03 PM</span>
+
+            <div class="chatlog__message " data-message-id="786322173206986774" id="message-786322173206986774">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">No he sets like goals and attempts (but fails) to hide content behind said like goals</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/1e528b7f1f7d964ee13190505fae0283-92B26.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#119835;&#119845;乂R̸̿̿a̶͋͛ẏ̵͝m̴̌̊e̷̔͊d̶̋̍#5367" data-user-id="731879499653840916" style="">&#119835;&#119845;乂R̸̿̿a̶͋͛ẏ̵͝m̴̌̊e̷̔͊d̶̋̍</span>
+
+
+        <span class="chatlog__timestamp">09-Dec-20 12:03 PM</span>
+
+            <div class="chatlog__message " data-message-id="786322222436450326" id="message-786322222436450326">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">no like attempt</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/a064a3c103c5a6547ddf20d2c05b1875-F6072.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Anthony2be#1900" data-user-id="524430573964361733" style="color: rgb(89,234,253)">PythonCommander</span>
+
+
+        <span class="chatlog__timestamp">09-Dec-20 12:03 PM</span>
+
+            <div class="chatlog__message " data-message-id="786322248726347818" id="message-786322248726347818">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">pretty sure he did that because of us</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/382b515765ba3155c7461c9842c0cb88-8D76B.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#128017;Sheep-kun; SheepCommander☭&#127913;#1511" data-user-id="511656055974133780" style="color: rgb(240,255,240)">&#128017;Sheep-kun; SheepCommander☭&#127913;</span>
+
+
+        <span class="chatlog__timestamp">09-Dec-20 12:04 PM</span>
+
+            <div class="chatlog__message " data-message-id="786322303394775050" id="message-786322303394775050">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">lmao</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/1e528b7f1f7d964ee13190505fae0283-92B26.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#119835;&#119845;乂R̸̿̿a̶͋͛ẏ̵͝m̴̌̊e̷̔͊d̶̋̍#5367" data-user-id="731879499653840916" style="">&#119835;&#119845;乂R̸̿̿a̶͋͛ẏ̵͝m̴̌̊e̷̔͊d̶̋̍</span>
+
+
+        <span class="chatlog__timestamp">09-Dec-20 12:04 PM</span>
+
+            <div class="chatlog__message " data-message-id="786322381907689480" id="message-786322381907689480">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">if he wants like</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="786322417105502218" id="message-786322417105502218">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">he will do just</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="786322439499808783" id="message-786322439499808783">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">enchantmants</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/4b14bfc99fd523c50cf922049ea77f89-B779C.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Cloud Wolf#5592" data-user-id="312743067461353483" style="color: rgb(26,188,156)">Cloud Wolf</span>
+
+
+        <span class="chatlog__timestamp">09-Dec-20 05:06 PM</span>
+
+            <div class="chatlog__message " data-message-id="786398445493551125" id="message-786398445493551125">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">Asking ppl for some sort of result before giving them information shows that you do not care about helping ppl, just pumping ur numbers / revenue. No debate, just a fact.</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/b50adff099924dd5e6b72d13f77eb9d7-A48AE.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="MEE6#4876" data-user-id="159985870458322944" style="color: rgb(46,204,113)">MEE6</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">09-Dec-20 05:06 PM</span>
+
+            <div class="chatlog__message " data-message-id="786398446525480991" id="message-786398446525480991">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">Cloud Wolf#5592 just evolved to become... <span class="spoiler spoiler--hidden" onclick="showSpoiler(event, this)"><span class="spoiler-text">2yo and horny <img class="emoji " alt="person_dabbing" title="person_dabbing" src="https://cdn.discordapp.com/emojis/748258422545317948.png"></span></span> 
+<span class="spoiler spoiler--hidden" onclick="showSpoiler(event, this)"><span class="spoiler-text">Fine your lvl is <span class="pre pre--inline">1</span>, use <span class="pre pre--inline">!rank</span>/<span class="pre pre--inline">!levels</span> in <span class="mention">#&#129302;bot-commands</span></span></span></span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/382b515765ba3155c7461c9842c0cb88-8D76B.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#128017;Sheep-kun; SheepCommander☭&#127913;#1511" data-user-id="511656055974133780" style="color: rgb(240,255,240)">&#128017;Sheep-kun; SheepCommander☭&#127913;</span>
+
+
+        <span class="chatlog__timestamp">09-Dec-20 05:07 PM</span>
+
+            <div class="chatlog__message " data-message-id="786398594759393290" id="message-786398594759393290">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">I wonder if raymed meant to say &quot;He don&#39;t want anything <em>but</em> likes&quot;</span>
+
+                        </div>
+                    </div>
+
+                    <div class="chatlog__attachment">
+                        <div class="" onclick="">
+                            <div class="">
+                                    <a href="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/unknown-5002F.png">
+                                        <img class="chatlog__attachment-thumbnail" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/unknown-5002F.png" alt="Image attachment" title="Image: unknown.png (12.63 KB)">
+                                    </a>
+                            </div>
+                        </div>
+                    </div>
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/d0b08fcea7cf8b73c09662862dc54157-156FB.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#127876;DorkByAWaffle#5886" data-user-id="684243354644643898" style="color: rgb(155,89,182)">&#127876;DorkByAWaffle</span>
+
+
+        <span class="chatlog__timestamp">09-Dec-20 05:07 PM</span>
+
+            <div class="chatlog__message " data-message-id="786398595917152267" id="message-786398595917152267">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">You can make your own Elemental bows using Cloud Wolf&#39;s tutorial on custom bow enchants</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/4b14bfc99fd523c50cf922049ea77f89-B779C.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Cloud Wolf#5592" data-user-id="312743067461353483" style="color: rgb(26,188,156)">Cloud Wolf</span>
+
+
+        <span class="chatlog__timestamp">09-Dec-20 05:08 PM</span>
+
+            <div class="chatlog__message " data-message-id="786398870053584896" id="message-786398870053584896">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">^ i also have the whole dl in the desc i believe, cause i care about ppl having good content and i dont care about views in the slightest</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/7aea0d1ac9f92c5ee79c40d2f52669ea-E1AE6.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Quackleb#6473" data-user-id="523238128325230622" style="color: rgb(153,45,34)">Quackleb</span>
+
+
+        <span class="chatlog__timestamp">11-Dec-20 03:01 AM</span>
+
+            <div class="chatlog__message " data-message-id="786910497827454986" id="message-786910497827454986">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace"><span class="mention" title="&#128017;Sheep-kun; SheepCommander☭&#127913;#1511">@&#128017;Sheep-kun; SheepCommander☭&#127913;</span> CommandGeek hides datapack downloads behind like goals</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/4b14bfc99fd523c50cf922049ea77f89-B779C.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Cloud Wolf#5592" data-user-id="312743067461353483" style="color: rgb(26,188,156)">Cloud Wolf</span>
+
+
+        <span class="chatlog__timestamp">11-Dec-20 09:04 AM</span>
+
+            <div class="chatlog__message " data-message-id="787001877455568967" id="message-787001877455568967">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">yes and i also think thats kinda scummy</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="787001903849537617" id="message-787001903849537617">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">either just have it out there or not at all</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="787002180765876294" id="message-787002180765876294">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">saying someone else does something doesnt justify it. just cause jeffry daumer ate ppl doesnt mean its ok for u to eat ppl</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/382b515765ba3155c7461c9842c0cb88-8D76B.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#128017;Sheep-kun; SheepCommander☭&#127913;#1511" data-user-id="511656055974133780" style="color: rgb(240,255,240)">&#128017;Sheep-kun; SheepCommander☭&#127913;</span>
+
+
+        <span class="chatlog__timestamp">11-Dec-20 09:19 AM</span>
+
+            <div class="chatlog__message " data-message-id="787005536633356329" id="message-787005536633356329">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">I know, and you&#39;ll see me in his server occasionally tell people CommandGeek is another Child YTer who hides behind like goals, probably most critical thing you&#39;ll see on his server</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/d0b08fcea7cf8b73c09662862dc54157-156FB.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#127876;DorkByAWaffle#5886" data-user-id="684243354644643898" style="color: rgb(155,89,182)">&#127876;DorkByAWaffle</span>
+
+
+        <span class="chatlog__timestamp">11-Dec-20 09:53 AM</span>
+
+            <div class="chatlog__message " data-message-id="787014286719188992" id="message-787014286719188992">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">da heck</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="787014302812733460" id="message-787014302812733460">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">i was reading somthing</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="787014315558699049" id="message-787014315558699049">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">heck you sheep</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="787014328980471858" id="message-787014328980471858">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">IJBEJHFBUAHWBFAWIEUF</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="VeSaucy#4506" data-user-id="209494852121919490" style="color: rgb(26,188,156)">&#191;Quieres?</span>
+
+
+        <span class="chatlog__timestamp">11-Dec-20 09:54 AM</span>
+
+            <div class="chatlog__message " data-message-id="787014344960639026" id="message-787014344960639026">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">SHEEP BLOcKING THe MeDiA</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/382b515765ba3155c7461c9842c0cb88-8D76B.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#128017;Sheep-kun; SheepCommander☭&#127913;#1511" data-user-id="511656055974133780" style="color: rgb(240,255,240)">&#128017;Sheep-kun; SheepCommander☭&#127913;</span>
+
+
+        <span class="chatlog__timestamp">11-Dec-20 09:54 AM</span>
+
+            <div class="chatlog__message " data-message-id="787014402300706887" id="message-787014402300706887">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">Go complain about Command Geek in <span class="mention">#&#128172;general</span> or smth</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/4b14bfc99fd523c50cf922049ea77f89-B779C.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Cloud Wolf#5592" data-user-id="312743067461353483" style="color: rgb(26,188,156)">Cloud Wolf</span>
+
+
+        <span class="chatlog__timestamp">11-Dec-20 09:54 AM</span>
+
+            <div class="chatlog__message " data-message-id="787014484538949643" id="message-787014484538949643">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">hes tryna keep this about like goals</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/d0b08fcea7cf8b73c09662862dc54157-156FB.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#127876;DorkByAWaffle#5886" data-user-id="684243354644643898" style="color: rgb(155,89,182)">&#127876;DorkByAWaffle</span>
+
+
+        <span class="chatlog__timestamp">11-Dec-20 09:54 AM</span>
+
+            <div class="chatlog__message " data-message-id="787014492100886609" id="message-787014492100886609">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">ok fair enough</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/a2a9a17251bbb594380a9b89108196a8-6CAA2.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="HelpMate#8798" data-user-id="743862094134509578" style="">HelpMate</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">17-Dec-20 11:14 PM</span>
+
+            <div class="chatlog__message " data-message-id="789390087430471680" id="message-789390087430471680">
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(54,57,64,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+                                        <div class="chatlog__embed-title">
+                                                <div class="markdown preserve-whitespace">A slowmode of 1s has been activated by a moderator.</div>
+                                        </div>
+
+
+                                </div>
+
+                            </div>
+
+
+                                <div class="chatlog__embed-footer">
+                                        <img class="chatlog__embed-footer-icon" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-and-like-goals%20%5B783430616145723442%5D.html_Files/382b515765ba3155c7461c9842c0cb88-2640B.webp" alt="Footer icon">
+
+                                    <span class="chatlog__embed-footer-text">
+Applied by &#128017;Sheep-kun; SheepCommander☭&#127913;#1511
+ • 
+17-Dec-20 11:14 PM                                    </span>
+                                </div>
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+</div>
+
+<div class="postamble">
+    <div class="postamble__entry">Exported 40 message(s)</div>
+</div>
+
+</body>
+</html>
