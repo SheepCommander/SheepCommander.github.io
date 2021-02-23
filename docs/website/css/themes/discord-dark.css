@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body{
+    background-color: #36393f;
+    color: #ffffff;
+    font-family: 'Ubuntu';
+    margin: 0;
+}
+
+a{
+    color: #00b0f4;
+}
+
+a:focus {
+    outline: auto 1px;
+    outline-color: -webkit-focus-ring-color;
+    outline-style: auto;
+    outline-width: 1px;
+}
