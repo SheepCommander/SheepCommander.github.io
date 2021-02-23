@@ -1,0 +1,347 @@
+CIRCUL AR
+
+66
+
+Copyright Registration of
+
+Websites and Website
+Content
+The Copyright Act does not explicitly
+recognize websites as a type of
+copyrightable subject matter. However,
+you may be able to register a website
+or a specific web page if it satisfies
+certain statutory requirements. This
+circular focuses on registration issues
+involving websites and website
+content. It covers
+• How to identify the author of
+a website
+• How to identify copyrightable
+content on a website
+• What “publication” means
+in the context of a website
+• What to submit as a deposit
+with a website registration
+
+For registration purposes, a website is a web page or set of
+interconnected web pages, including a home page, located on
+the same computer or server and prepared and maintained
+as a collection of information by a person, group, or
+organization. Although a website may contain text, artwork,
+photographs, music, videos, or other copyrightable content,
+the website itself is not typically considered a copyrightable
+work. However, you may be able to register a website or a
+specific web page if it satisfies the statutory requirements for a
+compilation or collective work.
+Websites differ from databases and computer programs
+for the purposes of registration. A database is a compilation
+of digital information, accessible solely by an information
+retrieval program. A computer program is a set of statements
+or instructions to be used directly or indirectly in a computer
+to bring about a certain result.
+This circular provides information about registering
+websites and website content with the U.S. Copyright Office.1
+For specific information about this topic, see chapter 1000
+of the Compendium of U.S. Copyright Office Practices. For
+information about registration of computer programs, see
+Copyright Registration of Computer Programs (Circular 61).
+For more information about registration of databases, see
+chapter 700, section 727 of the Compendium.
+
+Copyright Registration
+An application for copyright registration contains three
+essential elements: a completed application form, a
+nonrefundable filing fee, and a nonreturnable deposit—
+that is, a copy or copies of the work being registered and
+“deposited” with the Copyright Office. Copyright Registration
+(Circular 2) contains general information about submitting a
+registration including details about what to expect after you
+file and the effective date of registration. When you complete
+an application, you will be asked to identify the author of the
+
+w
+
+copyright.gov
+
+work, the type of copyrightable authorship that you want to register, and the owner of copyright.
+These topics are discussed in more detail below.
+As a general rule, you must submit a separate application, filing fee, and deposit for each work
+that you want to register. However, the Office has established exceptions for certain types of works
+that allow you to register multiple works with one application. In particular, the Office offers a
+group registration for short online literary works. For more information, see Group Registration of
+Short Online Literary Works (Circular 67) and Multiple Works (Circular 34).
+The Copyright Office strongly encourages you to submit a claim before you distribute your work
+to the public.
+note: Copyright Office fees are subject to change. For current fees, see Copyright Office Fees
+(Circular 4) available on the Office’s website at www.copyright.gov or call the office at (202) 707-3000
+or 1-877-476-0778 (toll free).
+
+Copyrightable Content on a Website
+To register a website or website content, you must identify the copyrightable authorship you will
+submit for registration. Copyrightable authorship is original expression contributed by an author
+that contains at least a minimum amount of creativity.
+As with any other work, the Office will refuse registration for any website or website content that
+does not constitute copyrightable subject matter or any content that lacks sufficient authorship.
+Common examples of uncopyrightable material particular to websites include ideas or plans for
+future websites; functional design elements; domain names or URLs; the layout, format, or “look and
+feel” of a web page; or other common, unoriginal material such as names, icons, or familiar symbols.
+Website Content
+
+Websites usually contain multiple forms of content such as text, photographs, illustrations, and
+other two-dimensional artwork. They may also contain other forms of content such as music, sound
+recordings, and videos or other audiovisual works.
+An individual work that appears on a website can be registered if it constitutes copyrightable
+subject matter and contains a sufficient amount of original authorship. It should be registered
+according to the predominant copyrightable content. For example, if you want to protect a blog
+post consisting mainly of text, you can register the blog entry as a literary work. If you want to
+protect a musical work that is available on a website, you can register it as a work of the performing
+arts. Likewise, a photographer who displays or distributes her photographs on a website can register
+these images as visual art works. In other words, works that are located on a website are registered in
+much the same way as any other work, and the Office applies the same rules when examining them.
+As a general rule, you should submit a separate application for each component work appearing
+on the website, although it is possible to register multiple works on one application if they qualify
+for one of the Office’s special registration accommodations. For example, if the works on a website
+are of the same type and are unpublished, you may be able to register them using the group
+registration of unpublished works option. For more information, see Multiple Works (Circular 34).
+Alternatively, if they are literary works that contain between 50 and 17,500 words and if they were
+first published online, you may be able to register them using the group registration of short online
+literary works option. For more information, see Group Registration of Short Online Literary Works
+(Circular 67).
+
+Copyright Registration of Websites and Website Content
+
+2
+
+If the website contains a number of photographs, you may be able to register them using the
+group option for published or unpublished photographs. For more information, see Copyright
+Registration of Photographs (Circular 42). As discussed below, it may also be possible to register a
+website together with the works contained on it if the site qualifies as a collective work, regardless of
+whether the works are published or unpublished.
+Website as a Whole
+
+A website is not explicitly recognized as a type of copyrightable subject matter under the Copyright
+Act. Therefore, you should not list “website” as the type of authorship that you will submit with your
+copyright application. You, may, however, be able to register a website or a specific web page if it
+satisfies the statutory requirements for a compilation or collective work.
+You can register a website as a compilation or a collective work if there is a sufficient amount of
+creative expression in the selection, coordination, or arrangement of the content appearing on the
+individual web pages or the website as a whole. Likewise, a website may qualify as a compilation or a
+collective work if there is sufficient creativity in the overall hierarchy of the website, such as the ways
+in which the pages are connected or linked with one another.
+When you register a website as a compilation or a collective work, the registration may cover
+both the website as a whole and the individual works that appear on the site—but only if the
+claimant fully owns the copyrights in both the compilation and the underlying works at the time of
+registration. For more information about compilation and collective work authorship, see Multiple
+Works (Circular 34).
+A claim in a compilation or a collective work extends only to the specific elements provided
+in the deposit that the claimant fully owns. It does not cover previous or subsequent iterations of
+the same website. Likewise, it does not cover the general layout or format of a web page or other
+elements arranged in the same or a similar way. For this reason, the Office generally will refuse
+claims consisting solely of style sheet languages, such as Cascading Style Sheets.
+HTML
+
+Hypertext markup language (HTML) is a standard markup language used in the design of websites.
+It is frequently generated by automated website design software. HTML establishes the format and
+layout of the content that appears on a particular web page by instructing the user’s browser to
+present that content in a specified manner.
+If you want to register content that has been posted on a website, you should submit the content
+in the form in which it appears on the actual website. There is no reason to submit the HTML code
+for that site unless you specifically want to register the human-written portions of the HTML itself
+and any website text that is embedded within the HTML. A registration for HTML will not cover
+any formatting and layout that may be dictated by the HTML or style sheets. Nor will it cover any
+audio, visual, or audiovisual content that may appear on a website and is not perceptible in the
+HTML. HTML may be registered as a literary work only if it was created by a human being and it
+contains a sufficient amount of creative expression.
+
+Author of a Website and Its Content
+To register a work with the Copyright Office, you must identify the author or authors of the work. In
+addition, you must identify the party that owns the copyright in the work. Many websites contain
+
+Copyright Registration of Websites and Website Content
+
+3
+
+multiple types of copyrightable content. Identifying the author and copyright owner of that content
+is an important step in seeking a registration.
+Generally, when an individual creates a work he or she is considered the author of that work for
+copyright purposes. If two or more authors create a work, they may be considered joint authors, and
+their work may be considered a joint work. For more information on joint authorship, see chapter 500,
+sections 505 through 505.2, of the Compendium.
+If a third party hires an individual as an independent contractor to develop a website or content
+for a website, the contractor is considered the author and copyright owner of the work, not the
+hiring party. In such a case, the hiring party would have to acquire all the exclusive rights in the
+work through a signed written agreement with the contractor to assert a claim to copyright in
+the contractor’s work. By contrast, if an individual creates a work during the course of his or her
+employment under a typical employment relationship, the work is considered a work made for hire,
+and the employer is considered the author and copyright owner of that work, not the employee. For
+more information, see chapter 500, sections 506 of the Compendium.
+Many websites also contain third-party content. This type of content typically belongs to the
+author of the content unless there is a valid written and signed transfer of ownership of all rights.
+One type of third-party content common to websites is user-generated content, the ownership of
+which may be transferred through terms of service. The Copyright Office will accept an application
+that asserts a claim in user-generated content as long as you identify the authors of that content
+and confirm that the copyright in that content has been transferred to the claimant named in
+the application. If the content was created by a large number of authors, the Office will accept an
+application that provides a representative number of author names and the number of additional
+authors who contributed to the content.
+note: You must exclude any authorship that is not fully owned by you from your application. In
+particular, a claim in an entire website does not extend to externally linked content.
+
+Common Registration Issues
+This section discusses some common issues that you should consider when seeking to register a
+website or website content.
+Publication
+
+The fact that a work has been placed online or posted on a website does not necessarily mean that
+the work has been published. The Office considers a work published when copies of it are distributed to the public by sale or other transfer of ownership if the copyright owner authorizes the end
+user to retain copies of the work. Merely displaying or performing a work online generally does not
+constitute publication. However, a work is considered published when the copyright owner offers to
+distribute copies of the work to a group of people for the purpose of further distributing the copies
+or publicly performing or displaying the work.
+The key element of publication for an online work is that the copyright owner must authorize
+distribution. Just because an end user can technically reproduce a work does not necessarily mean
+that the work has been published. A copyright owner must have expressly or implicitly authorized
+users to make retainable copies of a work by downloading, printing, or other means for the work to
+be considered published.
+
+Copyright Registration of Websites and Website Content
+
+4
+
+The concepts of authorization and publication can be complicated and may have serious
+consequences for the author or copyright owner. For this reason, the Office generally lets
+the applicant decide whether a particular work is published or unpublished. In making this
+determination, you may wish to consider the following general guidelines.
+• Work made available only by streaming. Streaming is a performance, which, in and of itself,
+does not constitute publication, because, as a practical matter, the end user does not retain a
+copy of the work when the performance ends.
+• Work for which downloading or reproduction is expressly prohibited. If there is a notice on a
+website in the terms of service for the site or another obvious place indicating that a work or
+the content on the site cannot be downloaded, printed, or copied, the work or content may be
+deemed unpublished, because the end user is not authorized to download, print, or otherwise
+distribute copies.
+• Work posted without the authority of the copyright owner. The fact that a work was posted
+on a website without authorization does not constitute publication, even if the work can be
+downloaded or printed from that site, because the copyright owner did not authorize the end
+user to retain copies of the work.
+• Work for which downloading is expressly authorized. If a work is expressly made available for
+download, such as when users can click on a “Download Now” button or similar link to obtain
+copies, the work has been published. However, this authorization may be limited to particular
+works and does not necessarily extend to the website as a whole.
+• Work made available in electronic and physical format. If the same work is posted online and
+distributed in tangible copies, such as CDs, DVDs, or printed formats, the work is considered
+published, even if it has not been posted online in a manner that would constitute publication.
+• Work made available through an implied license. It may be unclear whether the copyright owner
+authorized the public to retain copies of the work if a work is posted on a website and there is
+no evident statement in the terms of service for the site—on the web page where the work is
+displayed or elsewhere—stating that the work can be downloaded, copied, forwarded, shared,
+or printed. If the website assists the end user in some manner in downloading, reproducing, or
+retransmitting the content of the site, there may be an implied license to distribute copies of
+the work, in which case the work would be considered published.
+For additional guidance in determining whether a particular work has been published, see
+chapter 1000, section 1008.3, of the Compendium.
+
+Derivative Versions
+
+Most websites are updated often and change significantly over time. Generally, each new version of a
+website is considered a separate work for purposes of registration.
+A registration for a specific version of a website covers the new material that the author
+contributed to that version, including any changes, revisions, additions, or other modifications that
+the author made to that version. Ordinarily, the registration does not cover earlier or later versions
+of the same website or preexisting material that may be contained within that site.
+In particular, a registration for a specific version of a website does not cover:
+• Previously published material;
+• Previously registered material;
+
+Copyright Registration of Websites and Website Content
+
+5
+
+• Material that is in the public domain; or
+• Copyrightable material owned by a third party.
+There is a limited exception to this rule. A registration may cover both new material and
+preexisting material if the preexisting material has never been published or registered before and if
+the claimant owns the copyright in both the new and the preexisting material.
+Whether the additions or alterations to a website and its content are published or unpublished
+is central to determining what you can register and what you need to exclude from your claim. If
+the website and its content have been published, you generally should limit your claim to the new
+content that appeared on the website on a single date, and you should file separate applications for
+any other date on which newly published material was added to the website. By contrast, if the new
+content is unpublished, you may be able to register that content using the group registration option
+for unpublished works, even if the content was added to the website on different dates.
+
+Deposit Requirements
+The deposit requirements for websites and website content are generally the same as for any
+other work. If the work is unpublished or if it has been published solely online, you must submit
+a complete copy of the work. For example, if you want to register an entire website, you must
+submit all of the pages as they actually appear on the site, regardless of volume. If you want to
+register an individual work that appears on the website, the deposit must depict the work in the
+context in which it appears on the website or web page. In other words, the deposit should show
+how the content would be perceived when a user accesses that content online. A claim in an entire
+website does not extend to any content that cannot be viewed in the deposit copy, such as audio or
+audiovisual works that may be embedded within the website.
+Currently, PDF format is the preferred means for submitting deposits of websites and website
+content. A PDF package can be used to fix an entire website and maintain the organization and
+navigation of the site. If the work has been published, you should make sure that the content of the
+deposit matches the date of publication specified in your application.
+The Office will not accept a link to a website or other online sources. You should not submit
+separate files or folders containing unassembled content or content that has been disassociated
+from the website or web page where it originally appeared. As mentioned above, you do not have to
+submit the HTML for a website unless you specifically want to register the human-written portions
+of the HTML itself and any website text that is embedded within the HTML.
+The mandatory deposit requirement generally does not apply to works published in the United
+States that are only available online. However, there is a limited exception to this rule for electronic
+serials that have been expressly demanded by the Copyright Office. For a definition of “electronic
+serial” and information concerning the mandatory deposit requirements for such works, see
+Mandatory Deposit of Copies or Phonorecords for the Library of Congress (Circular 7D).
+
+Copyright Registration of Websites and Website Content
+
+6
+
+note
+1. This circular is intended as an overview of registering website content with the Copyright Office.
+The authoritative source for U.S. copyright law is the Copyright Act, codified in Title 17 of the United
+States Code. Copyright Office regulations are codified in Title 37 of the Code of Federal Regulations.
+Copyright Office practices and procedures are summarized in the third edition of the Compendium
+of U.S. Copyright Office Practices, cited as the Compendium. The copyright law, regulations, and the
+Compendium are available on the Copyright Office website at www.copyright.gov.
+
+Copyright Registration of Websites and Website Content
+
+7
+
+For Further Information
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,
+and related materials are available on the Copyright Office website at www.copyright.gov.
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time,
+Monday through Friday, except federal holidays. To request application forms or circulars by
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message.
+By Regular Mail
+
+Write to
+Library of Congress
+U.S. Copyright Office
+Publications Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+1
+
+U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov
+CIRCULAR 66
+
+REVISED: 08/2020
+
+PRINT: 00 /0000 — 0,000
+
+

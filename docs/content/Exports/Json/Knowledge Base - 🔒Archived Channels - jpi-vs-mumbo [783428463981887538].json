@@ -1,0 +1,816 @@
+{
+  "guild": {
+    "id": "648294947123888128",
+    "name": "Knowledge Base",
+    "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\a56bcbda5ea1db3e101c6895440d1c5b-CBC3F.png"
+  },
+  "channel": {
+    "id": "783428463981887538",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDD12Archived Channels",
+    "name": "jpi-vs-mumbo",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "783428589529333812",
+      "type": "Default",
+      "timestamp": "2020-12-01T20:25:31.143+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--= **John Paul Inso completely steals from Mumbo** =--\nHere we\u0027ll compare a video made by John Paul Inso and a video made by Mumbo\n**John Paul Inso**",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783428638346706973",
+      "type": "Default",
+      "timestamp": "2020-12-01T20:25:42.782+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDD17 https://www.youtube.com/watch?v=FmFG_t6izQ0",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Minecraft: 20 Doors in 100 Seconds | Custom Map",
+          "url": "https://www.youtube.com/watch?v=FmFG_t6izQ0",
+          "timestamp": null,
+          "description": "You can learn many doors in this map which will improve your redstone creation Skill. This was made about 2 years ago. Be sure to like and Subscribe, I will really Appreciate it, And Showing support for me.\n\u2022Never Miss a Video\u25BA http://bit.ly/SubscribeJohnPaulInso\n\n~-~-~-~-DOWNLOADS!~-~-~-~-\n\n20 Doors in 100 Seconds Map\u25BAhttp://bit.ly/2gS4W8i\n\n~-~...",
+          "color": "#FF0000",
+          "author": {
+            "name": "John Paul Inso",
+            "url": "https://www.youtube.com/channel/UC6Rtp0D7qMZ1asHSsClA29Q"
+          },
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\maxresdefault-0BFD4.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA9",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\1f4a9-79AA8.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783428728054218823",
+      "type": "Default",
+      "timestamp": "2020-12-01T20:26:04.17+00:00",
+      "timestampEdited": "2020-12-06T22:59:31.62+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Video download:",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "783428723986530304",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\Minecraft_20_Doors_in_100_Seconds_Custom_M-4016C.mp4",
+          "fileName": "Minecraft_20_Doors_in_100_Seconds_Custom_Map.mp4",
+          "fileSizeBytes": 30700373
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783428756039401524",
+      "type": "Default",
+      "timestamp": "2020-12-01T20:26:10.842+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Description:",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "783428753162240000",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\unknown-890CC.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 75933
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783428796136685569",
+      "type": "Default",
+      "timestamp": "2020-12-01T20:26:20.402+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thumbnail:",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "783428793666764820",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\unknown-60A2D.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 241475
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783428809596731402",
+      "type": "Default",
+      "timestamp": "2020-12-01T20:26:23.611+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Mumbo**",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783428911064809492",
+      "type": "Default",
+      "timestamp": "2020-12-01T20:26:47.803+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDD17 https://www.youtube.com/watch?v=1CAp2NmhZEU",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Minecraft: 20 Doors In 100 Seconds",
+          "url": "https://www.youtube.com/watch?v=1CAp2NmhZEU",
+          "timestamp": null,
+          "description": "If you enjoyed this little video, please leave a LIKE! Let me know if you want more!\n\nBehind the scenes! https://www.youtube.com/watch?v=ebTrld_dRpA\n\nSupport this post on reddit: http://www.reddit.com/r/Minecraft/comments/244g0m/20_doors_in_100_seconds/\n\n2ND CHANNEL: https://www.youtube.com/OfficialMumbo\nTWITTER: https://twitter.com/ThatMumboJum...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Mumbo Jumbo",
+            "url": "https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg"
+          },
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\maxresdefault-5BEAA.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783429208872714240",
+      "type": "Default",
+      "timestamp": "2020-12-01T20:27:58.806+00:00",
+      "timestampEdited": "2020-12-01T20:28:29.942+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Description:** \nHere John Paul Inso completely stole the title, the world download, AND the thumbnail.\nIf you check the world download it shows Mumbo is the only one who ever played on it",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783430023293435964",
+      "type": "Default",
+      "timestamp": "2020-12-01T20:31:12.979+00:00",
+      "timestampEdited": "2020-12-04T23:34:28.276+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Almost forgot here\u0027s the download *John Paul Inso* provided, you\u0027ll notice that only Mumbo ever played on it meaning that he literally just took Mumbo\u0027s download and redistributed it",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "783430022903103558",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\20_Doors_In_Minecraft-CF77B.zip",
+          "fileName": "20_Doors_In_Minecraft.zip",
+          "fileSizeBytes": 1387258
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786559723222204426",
+      "type": "Default",
+      "timestamp": "2020-12-10T11:47:31.589+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LMAO 0:26 the mumbo door",
+      "author": {
+        "id": "372715536121069578",
+        "name": "asdru",
+        "discriminator": "3882",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\bbb27a6e37ce288de87749999058aeb2-4461E.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786559727005335572",
+      "type": "Default",
+      "timestamp": "2020-12-10T11:47:32.491+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "epic",
+      "author": {
+        "id": "372715536121069578",
+        "name": "asdru",
+        "discriminator": "3882",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\bbb27a6e37ce288de87749999058aeb2-4461E.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786559750690439208",
+      "type": "Default",
+      "timestamp": "2020-12-10T11:47:38.138+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "definetly made by him",
+      "author": {
+        "id": "372715536121069578",
+        "name": "asdru",
+        "discriminator": "3882",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\bbb27a6e37ce288de87749999058aeb2-4461E.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786938317491929108",
+      "type": "Default",
+      "timestamp": "2020-12-11T12:51:55.497+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok yes he showed of the map in his video",
+      "author": {
+        "id": "523238128325230622",
+        "name": "Quackleb",
+        "discriminator": "6473",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\7aea0d1ac9f92c5ee79c40d2f52669ea-E1AE6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786938367556190229",
+      "type": "Default",
+      "timestamp": "2020-12-11T12:52:07.433+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He gave credit at the beginning and never tried to claim he made it",
+      "author": {
+        "id": "523238128325230622",
+        "name": "Quackleb",
+        "discriminator": "6473",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\7aea0d1ac9f92c5ee79c40d2f52669ea-E1AE6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786986824219230278",
+      "type": "Default",
+      "timestamp": "2020-12-11T16:04:40.402+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That\u0027s not creative use",
+      "author": {
+        "id": "460622908767731752",
+        "name": "Flopflip",
+        "discriminator": "7557",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\f7c7618877878f5553aabb1cb1098723-D0579.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786986838413934623",
+      "type": "Default",
+      "timestamp": "2020-12-11T16:04:43.786+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That\u0027s stealing",
+      "author": {
+        "id": "460622908767731752",
+        "name": "Flopflip",
+        "discriminator": "7557",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\f7c7618877878f5553aabb1cb1098723-D0579.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786998759779336192",
+      "type": "Default",
+      "timestamp": "2020-12-11T16:52:06.061+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "uhhhhh he literally ripped the download link",
+      "author": {
+        "id": "524430573964361733",
+        "name": "Anthony2be",
+        "discriminator": "1900",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\a064a3c103c5a6547ddf20d2c05b1875-F6072.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "523238128325230622",
+          "name": "Quackleb",
+          "discriminator": 6473,
+          "nickname": "Quackleb",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "786998814544232458",
+      "type": "Default",
+      "timestamp": "2020-12-11T16:52:19.118+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and made a vid showcasing it",
+      "author": {
+        "id": "524430573964361733",
+        "name": "Anthony2be",
+        "discriminator": "1900",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\a064a3c103c5a6547ddf20d2c05b1875-F6072.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786998867740459048",
+      "type": "Default",
+      "timestamp": "2020-12-11T16:52:31.801+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thats basically stealing",
+      "author": {
+        "id": "524430573964361733",
+        "name": "Anthony2be",
+        "discriminator": "1900",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\a064a3c103c5a6547ddf20d2c05b1875-F6072.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787001173223276544",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:01:41.471+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not to mention the thumbnail is the same",
+      "author": {
+        "id": "312743067461353483",
+        "name": "Cloud Wolf",
+        "discriminator": "5592",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\4b14bfc99fd523c50cf922049ea77f89-B779C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787001228429099059",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:01:54.633+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "he just stamped his ugly a*% avatar on it",
+      "author": {
+        "id": "312743067461353483",
+        "name": "Cloud Wolf",
+        "discriminator": "5592",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\4b14bfc99fd523c50cf922049ea77f89-B779C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787006551096819743",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:23:03.656+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "his avatar is aids",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787006596269998080",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:23:14.426+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if i could strangle it i would",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787006695956152401",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:23:38.193+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "he doesn\u2019t even have *an original skin*",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787006795046453248",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:24:01.818+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i liked the funny part",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787006816700989470",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:24:06.981+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "where he accidentally broke a door",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787006849181548615",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:24:14.725+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and tried putting it back",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787006908388999208",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:24:28.841+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lmao",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788153512911437864",
+      "type": "Default",
+      "timestamp": "2020-12-14T21:20:40.662+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wait.. i just realized",
+      "author": {
+        "id": "349598495264735233",
+        "name": "Zefyro",
+        "discriminator": "2750",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\d9fcc819e263eddb136dd3798658d682-493BA.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788153579490902036",
+      "type": "Default",
+      "timestamp": "2020-12-14T21:20:56.536+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Its actually the same thumbnail",
+      "author": {
+        "id": "349598495264735233",
+        "name": "Zefyro",
+        "discriminator": "2750",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\d9fcc819e263eddb136dd3798658d682-493BA.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788153706884759552",
+      "type": "Default",
+      "timestamp": "2020-12-14T21:21:26.909+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He just covered the \u0022REDSTONE\u0022 \u0027banner\u0027 at the top right corner",
+      "author": {
+        "id": "349598495264735233",
+        "name": "Zefyro",
+        "discriminator": "2750",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\d9fcc819e263eddb136dd3798658d682-493BA.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788154816483295252",
+      "type": "Default",
+      "timestamp": "2020-12-14T21:25:51.458+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ye",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789390079482396692",
+      "type": "Default",
+      "timestamp": "2020-12-18T07:14:21.107+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "743862094134509578",
+        "name": "HelpMate",
+        "discriminator": "8798",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\a2a9a17251bbb594380a9b89108196a8-6CAA2.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A slowmode of 1s has been activated by a moderator.",
+          "url": null,
+          "timestamp": "2020-12-18T07:14:20.599+00:00",
+          "description": "",
+          "color": "#363940",
+          "footer": {
+            "text": "Applied by \uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9#1511",
+            "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\382b515765ba3155c7461c9842c0cb88-2640B.webp"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791472910584905759",
+      "type": "Default",
+      "timestamp": "2020-12-24T01:10:46.739+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDD2E \uD83E\uDD2E \uD83E\uDD2E \uD83E\uDD2E",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791472922307854336",
+      "type": "Default",
+      "timestamp": "2020-12-24T01:10:49.534+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "SLOWMODE",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-mumbo [783428463981887538].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 35
+}
