@@ -49,7 +49,6 @@ theme:
 plugins:
   # Search bar
   - search
-    lang: en
 
 # Extra
 extra:
