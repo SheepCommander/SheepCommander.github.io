@@ -4,7 +4,7 @@ site_url: https://sheepcommander.github.io/
 site_author: SheepCommander, Anthonietta, KodingKat & MMK21
 site_description: Find resources for MineCraft commands, datapacks, & resource packs
 
-# Repository
+# Repository, turned of edit
 repo_name: SheepCommander/SheepCommander.github.io
 repo_url: https://github.com/SheepCommander/SheepCommander.github.io
 edit_uri: ""
@@ -20,28 +20,40 @@ theme:
   static_templates:
     - 404.html
 
-  # Default values, taken from mkdocs_theme.yml
-  language: en
-  features:
-    # - navigation.instant
-    - navigation.sections
-    - navigation.tabs
   palette:
-    scheme: default
+    # Slate = Dark mode; Default = Light mode
+    scheme: slate
     primary: indigo
     accent: indigo
   font:
     text: Roboto
     code: Roboto Mono
+  language: en
+
   favicon: assets/favicon.png
-  icon:
-    logo: logo
+  logo: assets/favicon.png
 
+  features:
+    # - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.instant
+    # Autohide header when user scrolls past a certain threshold
+    - header.autohide
 
-markdown_extensions:
-  - toc:
-      permalink: true
+  # Would Change the icon displayed for the git repo
+#  icon:
+#    repo: fontawesome/brands/git-alt
 
+# Plugins
 plugins:
-  - search:
-      lang: en
+  # Search bar
+  - search
+    lang: en
+
+# Extra
+extra:
+  # Generates icons at footer next to copyright
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/squidfunk
