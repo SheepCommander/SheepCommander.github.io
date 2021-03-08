@@ -1,0 +1,478 @@
+{
+  "guild": {
+    "id": "648294947123888128",
+    "name": "Knowledge Base",
+    "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\a56bcbda5ea1db3e101c6895440d1c5b-CBC3F.png"
+  },
+  "channel": {
+    "id": "783430375917486090",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDD12Archived Channels",
+    "name": "jpi-vs-cw",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "784563748395548672",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:36:14.107+00:00",
+      "timestampEdited": "2020-12-04T23:40:38.88+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--= **John Paul Inso vs Cloud Wolf** =--\n**Video containing stolen stuff:** Was privated (\u003Chttps://youtube.com/watch?v=fA89aOcFUEw\u003E)\n**Original:** https://www.youtube.com/watch?v=WgtGvA2HbTM\n\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784564115934675014",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:37:41.735+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Description:** John Paul Inso stole Cloud Wolf\u0027s RGBY datapack, went through all the files and changed all the credit to Him, and also deleted the \u0060minecraft\u0060 folder for some reason.\n(If you know DataPacks you\u0027ll know they don\u0027t function without the \u0060minecraft\u0060 folder)\n\nHe then redistributed it under a monetized ad download link and also made a monetized video showcasing the stolen version.",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784564162167832626",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:37:52.758+00:00",
+      "timestampEdited": "2020-12-04T23:38:41.9+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B\nHowever that\u0027s not the end of the story\n\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784564332348309555",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:38:33.332+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--= **Confrontation between CW \u0026 JPI** =--\n**Cloud Wolf:**  https://www.youtube.com/watch?v=DCdBKaco0Rk",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "EXPOSING a Datapack THIEF",
+          "url": "https://www.youtube.com/watch?v=DCdBKaco0Rk",
+          "timestamp": null,
+          "description": "We take a look at a channel that\u0027s stealing from everyone!\n\nNOTE: I do not condone any bullying or witch hunting. I just want you guys to investigate yourselves and to spread the word to those who may have copied.\n\nMy original vid: https://www.youtube.com/watch?v=WgtGvA2HbTM\n\n\u2694\uFE0F Server IP: cloudgames.ml\n\uD83D\uDD35 Discord Server: https://discord.gg/HyZPC...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Cloud Wolf",
+            "url": "https://www.youtube.com/channel/UCZnBqVITQ0dloqUU0fGxY3g"
+          },
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\maxresdefault-DD847.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784564443270742076",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:38:59.778+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Here CW had gathered full evidence so JPI was forced to apologize",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784564516872126494",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:39:17.326+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--= **Apology video** =--\n\uD83D\uDD17 https://www.youtube.com/watch?v=pSHDM33EBH0",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "I\u0027m very sorry (I promise it won\u0027t happen again!)",
+          "url": "https://www.youtube.com/watch?v=pSHDM33EBH0",
+          "timestamp": null,
+          "description": "Please watch the entire video for my explanation for that video last year. 2020 is a tough year for me, I had many problems, and I did a mistake, I would like to have an apology. \n\nHe is my inspiration and I have now taken down that video and I\u0027m waiting for Cloud\u0027s response.",
+          "color": "#FF0000",
+          "author": {
+            "name": "John Paul Inso",
+            "url": "https://www.youtube.com/channel/UC6Rtp0D7qMZ1asHSsClA29Q"
+          },
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\maxresdefault-8CE0E.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784564587659001856",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:39:34.203+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You\u0027ll notice it\u0027s unlisted but that was apparently at Cloud Wolf\u0027s request",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784564611088777238",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:39:39.789+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/783427467955798047/783434790468059196/cloudwolf_unlist.png",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/783427467955798047/783434790468059196/cloudwolf_unlist.png",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\cloudwolf_unlist-A6ACD.png",
+            "width": 946,
+            "height": 205
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784564973766574101",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:41:06.258+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**How genuine is JPI\u0027s apology?**\nWell immediately you notice he\u0027s advertising his Youtube shit in the background, asshole move",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784565105856610374",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:41:37.751+00:00",
+      "timestampEdited": "2020-12-08T06:00:20.059+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Now then one could argue that it was pre-recorded footage that he was just re-using, but\n1. That\u0027s highly unlikely\n2. If so that\u0027d just show how fucking lazy JPI is",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784565125708513310",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:41:42.484+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784565244324085780",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:42:10.764+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Now looking at the actual apology, you\u0027ll notice it\u0027s a lot of seemingly exaggerated breathing/crying, hyper ventilating, and self berating",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784565439962284032",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:42:57.408+00:00",
+      "timestampEdited": "2020-12-04T23:46:03.673+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HOWEVER you\u0027ll notice he plays the card of \u0022I didn\u0027t know any better\u0022 and \u0022I just started YouTube\u0022 BITCH YOU\u0027VE BEEN DOING YOUTUBE FOR 2 YEARS PRIOR AND DURING THAT TIME YOU ALSO STOLE FROM MUMBO (see #jpi-vs-mumbo)\n\nYou can tell from the titles and thumbnails that he\u0027s an experienced click baiter",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784565461186510878",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:43:02.468+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784565695950094347",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:43:58.44+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u0022And for those who didn\u0027t know I do suffer with Anxiety and Depression and sometimes Insomnia\u0022 ok sure but that plays no part in your apology, that\u0027s just low-key saying you\u0027re the one who\u0027s effected by this",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784565802552655912",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:44:23.856+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784565938145984563",
+      "type": "Default",
+      "timestamp": "2020-12-04T23:44:56.184+00:00",
+      "timestampEdited": "2020-12-10T01:02:16.26+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u0022I did credit you in the description\u0022 (From JPI to CW) I highly doubt you did and if you did that\u0027s not enough\n\u003E he linked the channel not the video\n- Witness @\uD83C\uDF84DorkByAWaffle\n\u003E you should update he did not link my channel\n- @Cloud Wolf",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "684243354644643898",
+          "name": "\uD83C\uDF84DorkByAWaffle",
+          "discriminator": 5886,
+          "nickname": "\uD83C\uDF84DorkByAWaffle",
+          "isBot": false
+        },
+        {
+          "id": "312743067461353483",
+          "name": "Cloud Wolf",
+          "discriminator": 5592,
+          "nickname": "Cloud Wolf",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "786692971009015839",
+      "type": "Default",
+      "timestamp": "2020-12-10T20:37:00.337+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Woah cloud",
+      "author": {
+        "id": "732244828393308333",
+        "name": "yoyo~kween",
+        "discriminator": "2383",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\2c6e72f191b424a0a25eca5dc5f6fff4-E9AFE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789390083031564319",
+      "type": "Default",
+      "timestamp": "2020-12-18T07:14:21.953+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "743862094134509578",
+        "name": "HelpMate",
+        "discriminator": "8798",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\a2a9a17251bbb594380a9b89108196a8-6CAA2.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A slowmode of 1s has been activated by a moderator.",
+          "url": null,
+          "timestamp": "2020-12-18T07:14:21.712+00:00",
+          "description": "",
+          "color": "#363940",
+          "footer": {
+            "text": "Applied by \uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9#1511",
+            "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-cw [783430375917486090].json_Files\\382b515765ba3155c7461c9842c0cb88-2640B.webp"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 19
+}

@@ -1,0 +1,58 @@
+body {
+    --sidebar-width: 240px
+}
+
+/* Scrollbar */
+    ::-webkit-scrollbar {
+        width: 6px;
+    }
+
+    /* Track */
+    ::-webkit-scrollbar-track {
+        background: transparent;
+        border-radius: 10px; 
+    }
+
+    /* Handle */
+    ::-webkit-scrollbar-thumb {
+        background: #202225;
+        border-radius: 10px;
+    }
+
+/* Sidebar */
+    .sidebar {
+        margin: 0;
+        padding: 0;
+        width: var(--sidebar-width);
+        background-color: #2f3136;
+        position: fixed;
+        height: 100%;
+        overflow: auto;
+        top: 0;
+
+        scrollbar-width: thin;
+        scrollbar-color: transparent transparent;
+    }
+    .sidebar:hover{
+        scrollbar-color: #4e5157 transparent;
+    }
+
+    /* Sidebar links */
+    .sidebar a {
+        display: block;
+        color: #8e9297;
+        padding: 16px;
+        text-decoration: none;
+    }
+
+    /* Heading */
+    .sidebar h1{
+        margin: 8px;
+        font-size: 18px;
+    }
+
+    /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+    #content, main{
+        margin-left: var(--sidebar-width);
+        padding: 10px 16px;
+    }
