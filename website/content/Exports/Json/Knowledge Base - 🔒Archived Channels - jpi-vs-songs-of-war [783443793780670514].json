@@ -1,0 +1,360 @@
+{
+  "guild": {
+    "id": "648294947123888128",
+    "name": "Knowledge Base",
+    "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\a56bcbda5ea1db3e101c6895440d1c5b-CBC3F.png"
+  },
+  "channel": {
+    "id": "783443793780670514",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDD12Archived Channels",
+    "name": "jpi-vs-songs-of-war",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "784584893329965066",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:00:15.452+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--= **JPI vs Songs of War** =--\nContext:\n\u003E Songs of War was a movie/show made by Black Plasma Studios. It very much felt like a minecraft style TV show, shame the second season was cancelled.\n\uD83D\uDD17 Full animation: https://www.youtube.com/watch?v=yCNUP2NAt-A",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Songs of War: FULL MOVIE (Minecraft Animation)",
+          "url": "https://www.youtube.com/watch?v=yCNUP2NAt-A",
+          "timestamp": null,
+          "description": "The full Songs of War Minecraft animation series put into one big epic Minecraft movie! \n\nYears after the Great War, the Voltaris are threatening to return to the world of Ardonia, and only Thalleous is preparing for an attack. He brings the clanless Senn on his journey, who gets a much different adventure than he ever could have planned for. \n\n...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Black Plasma Studios",
+            "url": "https://www.youtube.com/channel/UCawEP-InoKYKutsgq_vqIXA"
+          },
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\maxresdefault-0A896.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784584961122369575",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:00:31.615+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**John Paul Inso:** https://www.youtube.com/playlist?list=PLEeT3Ux-diOy7NCAcE105P9-GOZ1C-MNk",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SONGS OF WAR VANILLA MINECRAFT",
+          "url": "https://www.youtube.com/playlist?list=PLEeT3Ux-diOy7NCAcE105P9-GOZ1C-MNk",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\hqdefault-19418.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784585108589379584",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:01:06.774+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So basically JPI took the assetpack that BPS had provided, and then made sure to monetize every bit of it",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784585515630198855",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:02:43.82+00:00",
+      "timestampEdited": "2020-12-05T01:04:35.86+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He:\n \u2022 Made sure the download link has ads\n \u2022 Monetized the video\n \u2022 Clickbaited the video thumbnail and title\n \u2022 Split up the assets into different resource packs and made sure they don\u0027t work together\n \u2022 Made separate videos for each thing\n \u2022 Claimed credit for 3d modelling the sword\n \u2022 Didn\u0027t teach the viewer enough to apply these concepts to the other weapons, making them reliant on his re-occuring series",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784585525541077002",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:02:46.183+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784586086725713930",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:04:59.98+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He also added these 2 random vids to the playlist wtf",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784586084608114708",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\unknown-DCB4B.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 83647
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784586091541692437",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:05:01.128+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784586291765051422",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:05:48.865+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Anyways to make sure we\u0027re not unprepared like last time I\u0027ll create a dump channel #jpi-vs-songs-of-war-dump that is to contain all the concrete evidence we need",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784586723609804852",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:07:31.825+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It will also contain magnified screenshots of all the ad download links and the times he claimed credit",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784603219325616148",
+      "type": "Default",
+      "timestamp": "2020-12-05T02:13:04.71+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I completely forgot, so we took this up with Black Plasma Studios and had a short conversation with the lead animator Sam.\n\nHe basically said that they had no legal power and it\u0027d be a waste of time to try to take down JPI",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787518559756615701",
+      "type": "Default",
+      "timestamp": "2020-12-13T03:17:36.033+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "still haven\u0027t watched Songs of War.... \uD83D\uDE14",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787649483316002816",
+      "type": "Default",
+      "timestamp": "2020-12-13T11:57:50.642+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "***Crrrrrriiiiii.........***",
+      "author": {
+        "id": "725690304157450281",
+        "name": "SwiPE",
+        "discriminator": "7728",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\d1ab933aa4ec06760886056f8c8c9d02-4158C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "684243354644643898",
+          "name": "\uD83C\uDF84DorkByAWaffle",
+          "discriminator": 5886,
+          "nickname": "\uD83C\uDF84DorkByAWaffle",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "787693087425167390",
+      "type": "Default",
+      "timestamp": "2020-12-13T14:51:06.672+00:00",
+      "timestampEdited": "2020-12-13T14:51:09.794+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "okay, I PROMISE I\u0027ll watch it today",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789390095195045918",
+      "type": "Default",
+      "timestamp": "2020-12-18T07:14:24.853+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "743862094134509578",
+        "name": "HelpMate",
+        "discriminator": "8798",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\a2a9a17251bbb594380a9b89108196a8-6CAA2.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A slowmode of 1s has been activated by a moderator.",
+          "url": null,
+          "timestamp": "2020-12-18T07:14:24.384+00:00",
+          "description": "",
+          "color": "#363940",
+          "footer": {
+            "text": "Applied by \uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9#1511",
+            "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war [783443793780670514].json_Files\\382b515765ba3155c7461c9842c0cb88-2640B.webp"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 14
+}

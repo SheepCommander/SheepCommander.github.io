@@ -1,0 +1,21 @@
+--= **How to send code in Discord** =--
+**One line code blocks:**
+Like this: \`stuff\`
+Displays: `stuff`
+
+**Multiline code blocks:**
+\`\`\`
+stuff
+\`\`\`
+```
+stuff```
+**Multiline code blocks with syntax highlighting:**
+__When sending Minecraft Commands it is recommended to use `haskell` formatting.__
+\`\`\`haskell
+give @s poop{Poopy:420b} 69
+\`\`\`
+```haskell
+give @s minecraft:dirt{Poopy:69b} 420
+```
+(Copy and Paste Extract from Knowledge Base: <https://discord.gg/xpNJdH9>) 
+(Raw Paste & More <https://github.com/SheepCommander/KnowledgeBase/tree/main/1.16.4/faq/discord-formatting>)

@@ -1,0 +1,2486 @@
+{
+  "guild": {
+    "id": "648294947123888128",
+    "name": "Knowledge Base",
+    "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\a56bcbda5ea1db3e101c6895440d1c5b-CBC3F.png"
+  },
+  "channel": {
+    "id": "785608531301761115",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDD12Archived Channels",
+    "name": "\u2753help-chat-3",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "785609070530658335",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:49:58.325+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When should I press the Nuke Button?",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609108086194176",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:50:07.279+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(on America of course)",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609121998438471",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:50:10.596+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That\u0027s what @Exor_Sk_2006 wants to do",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "576469559490510878",
+          "name": "Exor_Sk_2006",
+          "discriminator": 4661,
+          "nickname": "Exor_Sk_2006",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "785609168996401204",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:50:21.801+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "who the hecc is that",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609210427211798",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:50:31.679+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fucking lord of darkness",
+      "author": {
+        "id": "576469559490510878",
+        "name": "Exor_Sk_2006",
+        "discriminator": "4661",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\287ecfc1c4c8eb36cb8f8bec1bb042dc-828D1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609268199030845",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:50:45.453+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Im everything and nothing",
+      "author": {
+        "id": "576469559490510878",
+        "name": "Exor_Sk_2006",
+        "discriminator": "4661",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\287ecfc1c4c8eb36cb8f8bec1bb042dc-828D1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609312667959307",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:50:56.055+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Im positivity and negativity",
+      "author": {
+        "id": "576469559490510878",
+        "name": "Exor_Sk_2006",
+        "discriminator": "4661",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\287ecfc1c4c8eb36cb8f8bec1bb042dc-828D1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609355323768852",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:51:06.225+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Im light and darkness",
+      "author": {
+        "id": "576469559490510878",
+        "name": "Exor_Sk_2006",
+        "discriminator": "4661",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\287ecfc1c4c8eb36cb8f8bec1bb042dc-828D1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609360642146344",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:51:07.493+00:00",
+      "timestampEdited": "2020-12-07T20:51:20.404+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "im fourteen and this is deep \uD83D\uDE14",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609393017454602",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:51:15.212+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Im fourteen too",
+      "author": {
+        "id": "576469559490510878",
+        "name": "Exor_Sk_2006",
+        "discriminator": "4661",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\287ecfc1c4c8eb36cb8f8bec1bb042dc-828D1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609696270483496",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:52:27.513+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9 give my mod\u002B\u002B back :gun_pointing:",
+      "author": {
+        "id": "576469559490510878",
+        "name": "Exor_Sk_2006",
+        "discriminator": "4661",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\287ecfc1c4c8eb36cb8f8bec1bb042dc-828D1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "511656055974133780",
+          "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+          "discriminator": 1511,
+          "nickname": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "785609765773508700",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:52:44.084+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!role add @Exor_Sk_2006 @deleted-role",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "576469559490510878",
+          "name": "Exor_Sk_2006",
+          "discriminator": 4661,
+          "nickname": "Exor_Sk_2006",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "785609767733035008",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:52:44.551+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Added **T1 Poop** to **Exor_Sk_2006#4661**.",
+      "author": {
+        "id": "235148962103951360",
+        "name": "Carl-bot",
+        "discriminator": "1536",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\cececd50fdc87b29929e65c768f24ad6-EE603.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609789333700638",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:52:49.701+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Smh",
+      "author": {
+        "id": "576469559490510878",
+        "name": "Exor_Sk_2006",
+        "discriminator": "4661",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\287ecfc1c4c8eb36cb8f8bec1bb042dc-828D1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609804881592380",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:52:53.408+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nice",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609819062796298",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:52:56.789+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey it does go with your color scheme",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609819612119070",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:52:56.92+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/279294297398837249/762071975216283719/video0.mp4",
+      "author": {
+        "id": "235148962103951360",
+        "name": "Carl-bot",
+        "discriminator": "1536",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\cececd50fdc87b29929e65c768f24ad6-EE603.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/279294297398837249/762071975216283719/video0.mp4",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609851895283733",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:53:04.617+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yep",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609885789585429",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:53:12.698+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It doesnt",
+      "author": {
+        "id": "576469559490510878",
+        "name": "Exor_Sk_2006",
+        "discriminator": "4661",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\287ecfc1c4c8eb36cb8f8bec1bb042dc-828D1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609889748746340",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:53:13.642+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "poop fits your color scheme",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "785609887521964052",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\unknown-55ED1.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 3532
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "576469559490510878",
+          "name": "Exor_Sk_2006",
+          "discriminator": 4661,
+          "nickname": "Exor_Sk_2006",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "785609890499788830",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:53:13.821+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/279294297398837249/762071975216283719/video0.mp4",
+      "author": {
+        "id": "235148962103951360",
+        "name": "Carl-bot",
+        "discriminator": "1536",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\cececd50fdc87b29929e65c768f24ad6-EE603.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/279294297398837249/762071975216283719/video0.mp4",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609956438966302",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:53:29.542+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we could get something closer but it totally fits",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "576469559490510878",
+          "name": "Exor_Sk_2006",
+          "discriminator": 4661,
+          "nickname": "Exor_Sk_2006",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "785609957545738360",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:53:29.806+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Its dark red not brown",
+      "author": {
+        "id": "576469559490510878",
+        "name": "Exor_Sk_2006",
+        "discriminator": "4661",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\287ecfc1c4c8eb36cb8f8bec1bb042dc-828D1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785609989262934036",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:53:37.368+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "close enough",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785611260871311390",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:58:40.543+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hehe you are fucking",
+      "author": {
+        "id": "484593355859427329",
+        "name": "GFTK",
+        "discriminator": "4227",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\31312cd0186c5e54441eb2effb25c1ba-88BBA.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "576469559490510878",
+          "name": "Exor_Sk_2006",
+          "discriminator": 4661,
+          "nickname": "Exor_Sk_2006",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "785611275727798313",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:58:44.085+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hehhehe",
+      "author": {
+        "id": "484593355859427329",
+        "name": "GFTK",
+        "discriminator": "4227",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\31312cd0186c5e54441eb2effb25c1ba-88BBA.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786275794300305458",
+      "type": "Default",
+      "timestamp": "2020-12-09T16:59:17.659+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How do I invade Canada using commands?",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786276026824392725",
+      "type": "Default",
+      "timestamp": "2020-12-09T17:00:13.097+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/invide canada[@ev=sex]",
+      "author": {
+        "id": "649438618766802955",
+        "name": "GoatInABoat",
+        "discriminator": "2016",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\e0b24eb95105ff0a5afe079f6b1fefa9-C0161.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786318514645499915",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:49:02.983+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D I\u0027ve been told you want help, you can ask here",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "731879499653840916",
+          "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+          "discriminator": 5367,
+          "nickname": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "786318565158420493",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:49:15.026+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lol he has hate being pinged",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786318565899894854",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:49:15.203+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ty",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786318589547249664",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:49:20.841+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786318604806127626",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:49:24.479+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786318606609940490",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:49:24.909+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just abuse",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786318637774274641",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:49:32.339+00:00",
+      "timestampEdited": "2020-12-09T19:49:37.601+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "? \nAnyways what\u0027s your question?",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786318674381766737",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:49:41.067+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i wanna learn",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786318696271708190",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:49:46.286+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "datapacks",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786318697056174090",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:49:46.473+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "heres a playlist https://www.youtube.com/watch?v=Yz2hYJ-0CTA\u0026list=PLUtW5E6R_eqT5DZXmZgFYvKejzkMija72\u0026index=6\u0026t=0",
+      "author": {
+        "id": "524430573964361733",
+        "name": "Anthony2be",
+        "discriminator": "1900",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\a064a3c103c5a6547ddf20d2c05b1875-F6072.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to make Datapacks in Minecraft | Template Included! | Easy! | 1...",
+          "url": "https://www.youtube.com/watch?v=Yz2hYJ-0CTA\u0026start=0",
+          "timestamp": null,
+          "description": "How to make datapacks in Minecraft! This tutorial could not make things any easier! Whether you are a beginner or not, this tutorial provides you with a complete datapack template (Download link below!).\n\nThis is the first video in a series on Minecraft Development - Java Edition. It covers the basics of datapack file structure, tick.json, load....",
+          "color": "#FF0000",
+          "author": {
+            "name": "Code_Zealot - Java Edition",
+            "url": "https://www.youtube.com/channel/UCpHOb23aUpNS8bQClsdQR8Q"
+          },
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\maxresdefault-46056.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786318747824422962",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:49:58.577+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok fast reponse ty",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786318773518729236",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:50:04.703+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D for the basics of *creating* a datapack watch that video and the next two vids in playlist",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "731879499653840916",
+          "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+          "discriminator": 5367,
+          "nickname": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "786318806648750091",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:50:12.602+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also watch the next 2 vid in the playlist",
+      "author": {
+        "id": "524430573964361733",
+        "name": "Anthony2be",
+        "discriminator": "1900",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\a064a3c103c5a6547ddf20d2c05b1875-F6072.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786318846981308426",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:50:22.218+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786318859263148072",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:50:25.146+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HOWEVER that won\u0027t teach you commands etc., it just teaches you how to make the datapack itself",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786318896746463304",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:50:34.083+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ty",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319026262507540",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:51:04.962+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "any chance of peace ???",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319043405152275",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:51:09.049+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "idk",
+      "author": {
+        "id": "524430573964361733",
+        "name": "Anthony2be",
+        "discriminator": "1900",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\a064a3c103c5a6547ddf20d2c05b1875-F6072.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319043611197460",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:51:09.098+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "btw",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319132571336775",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:51:30.308+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "take that another time",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319192755798027",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:51:44.657+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i hate bad words",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319230105944075",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:51:53.562+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thats second thing",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319362310013019",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:52:25.082+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we also have a custom knowledge bot",
+      "author": {
+        "id": "524430573964361733",
+        "name": "Anthony2be",
+        "discriminator": "1900",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\a064a3c103c5a6547ddf20d2c05b1875-F6072.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319372372672512",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:52:27.481+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "k!help",
+      "author": {
+        "id": "524430573964361733",
+        "name": "Anthony2be",
+        "discriminator": "1900",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\a064a3c103c5a6547ddf20d2c05b1875-F6072.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319373127385118",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:52:27.661+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u0060\u0060\u0060\nKnowledge:\n  acronyms          \n  commandsExplained \n  faq               \n  prosCons          \n  textEditorPlugins \n  tool              \n  update            Updates the repo\n\u200BNo Category:\n  foo               \n  help              Shows this message\n  invite            \n  ping              Sees if the bot is working\n  prefix            \n  setdelay          \n\nType k!help command for more info on a command.\nYou can also type k!help category for more info on a category.\n\u0060\u0060\u0060",
+      "author": {
+        "id": "782818919336902676",
+        "name": "Knowledge Bot",
+        "discriminator": "2366",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1-B2132.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319413707145289",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:52:37.336+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh man my eye flashed",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319490320826379",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:52:55.602+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "k! ping",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319506930008106",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:52:59.562+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lol",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319520025411605",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:53:02.684+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "k!ping",
+      "author": {
+        "id": "524430573964361733",
+        "name": "Anthony2be",
+        "discriminator": "1900",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\a064a3c103c5a6547ddf20d2c05b1875-F6072.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319520641712169",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:53:02.831+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pong! \nBot Latency is 0.07407910000000584",
+      "author": {
+        "id": "782818919336902676",
+        "name": "Knowledge Bot",
+        "discriminator": "2366",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1-B2132.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319535812247604",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:53:06.448+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no space",
+      "author": {
+        "id": "524430573964361733",
+        "name": "Anthony2be",
+        "discriminator": "1900",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\a064a3c103c5a6547ddf20d2c05b1875-F6072.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319560109457480",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:53:12.241+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319593517744148",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:53:20.206+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "k!ping",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319593755901983",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:53:20.263+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pong! \nBot Latency is 0.07407910000000584",
+      "author": {
+        "id": "782818919336902676",
+        "name": "Knowledge Bot",
+        "discriminator": "2366",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1-B2132.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319775525240872",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:54:03.6+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we also have a *creative* punishment if people do something super bad",
+      "author": {
+        "id": "524430573964361733",
+        "name": "Anthony2be",
+        "discriminator": "1900",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\a064a3c103c5a6547ddf20d2c05b1875-F6072.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786319955988709407",
+      "type": "Default",
+      "timestamp": "2020-12-09T19:54:46.626+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786675406882340938",
+      "type": "Default",
+      "timestamp": "2020-12-10T19:27:12.723+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not really",
+      "author": {
+        "id": "576469559490510878",
+        "name": "Exor_Sk_2006",
+        "discriminator": "4661",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\287ecfc1c4c8eb36cb8f8bec1bb042dc-828D1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786675535769108500",
+      "type": "Default",
+      "timestamp": "2020-12-10T19:27:43.452+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it\u2019s called ammunition",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786676058388824156",
+      "type": "Default",
+      "timestamp": "2020-12-10T19:29:48.054+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no other server does it \u00AF\\_(\u30C4)_/\u00AF",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "576469559490510878",
+          "name": "Exor_Sk_2006",
+          "discriminator": 4661,
+          "nickname": "Exor_Sk_2006",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "788187800381292585",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:36:55.432+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also if  u want to learn how to make a datapack dont watch code zealot\u0027s videos\nHes fucking cringe\uD83E\uDD2E \uD83E\uDD22 \uD83E\uDD22 \uD83E\uDD2E \uD83E\uDD22 \uD83E\uDD2E \uD83E\uDD22 \uD83E\uDD2E \uD83E\uDD22 \uD83E\uDD2E \uD83E\uDD22 \uD83E\uDD22 \uD83E\uDD2E \uD83E\uDD22 :downvote: :downvote: \uD83D\uDE2B .  @Want to be pinged",
+      "author": {
+        "id": "732244828393308333",
+        "name": "yoyo~kween",
+        "discriminator": "2383",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\2c6e72f191b424a0a25eca5dc5f6fff4-E9AFE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788187936251314186",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:37:27.826+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "...what",
+      "author": {
+        "id": "248951662771830794",
+        "name": "Nope",
+        "discriminator": "1730",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\0d9f9f8dec8d819e11595f32735c58f0-87710.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788188050940887050",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:37:55.17+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "look he has a good video on how to *setup* a datapack template along with some basic mechanics, but I don\u0027t exactly prefer the rest of it over other YTers",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788188340834140170",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:39:04.286+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lol shut up cring normie \uD83E\uDD2E \uD83E\uDD2E \uD83E\uDD2E \uD83E\uDD2E \uD83E\uDD2E \uD83E\uDD2E \uD83D\uDE2B \uD83D\uDE2B \uD83D\uDE2B \uD83D\uDE29 \uD83E\uDD22 \uD83E\uDD22 \uD83E\uDD22 \uD83E\uDD22 :downvote: :downvote: :downvote: \uD83D\uDE2B \uD83D\uDE2B \uD83D\uDE2B \uD83E\uDD71 \uD83E\uDD71",
+      "author": {
+        "id": "732244828393308333",
+        "name": "yoyo~kween",
+        "discriminator": "2383",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\2c6e72f191b424a0a25eca5dc5f6fff4-E9AFE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "511656055974133780",
+          "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+          "discriminator": 1511,
+          "nickname": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "788188400402169866",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:39:18.488+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "CW is very casual but reliable, Bronghast014 feels more higher production quality but his videos are scarce and he\u0027s relatively inactive, Code_Zealot is medium active but clearly caters to keeping a rated General on his discord and I\u0027m now perm banned",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788188583026098206",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:40:02.029+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Timber Forge is much more on the inactive side and it was only relatively recently that he was still using \u0060run execute\u0060 as well as unoptimized datpacks",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788188727167025162",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:40:36.395+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And you...?",
+      "author": {
+        "id": "732244828393308333",
+        "name": "yoyo~kween",
+        "discriminator": "2383",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\2c6e72f191b424a0a25eca5dc5f6fff4-E9AFE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788188762857275392",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:40:44.904+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I\u0027m not a YTer",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788188810118168606",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:40:56.172+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Two relatively inactive people, one slightly cringier person, anyone else?",
+      "author": {
+        "id": "248951662771830794",
+        "name": "Nope",
+        "discriminator": "1730",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\0d9f9f8dec8d819e11595f32735c58f0-87710.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788188874169384992",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:41:11.443+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we don\u0027t talk about JPI, and that\u0027s all that comes to mind",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788189001869033472",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:41:41.889+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes but have you made a datapack of your own?",
+      "author": {
+        "id": "732244828393308333",
+        "name": "yoyo~kween",
+        "discriminator": "2383",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\2c6e72f191b424a0a25eca5dc5f6fff4-E9AFE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788189028327489537",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:41:48.197+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mmhmm",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788189096770142278",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:42:04.515+00:00",
+      "timestampEdited": "2020-12-14T23:42:08.099+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hmm there\u0027s this guy https://www.youtube.com/watch?v=8N8Klcpat3A",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to make custom mobs in Minecraft Java Edition | datapack tutorial",
+          "url": "https://www.youtube.com/watch?v=8N8Klcpat3A",
+          "timestamp": null,
+          "description": "\u25BCOpen description\u25BC\r\n\r\n\u25BADownload datapack: http://www.mediafire.com/file/mv3cf6vc85v6k7u/open_to_get_snake_datapack.zip/file\n\r\n\r\n\u25BABecome a Patron: https://www.patreon.com/NOPEname\r\n\r\n\u226B------------------------------------------------------------------------------------------\u226A\r\n\r\n\u25BAMusic: \r\n-Aire Atlantica - \u0022May\u0022 (Outro music)\r\n  \u25B7Download: https:/...",
+          "color": "#FF0000",
+          "author": {
+            "name": "NOPEname",
+            "url": "https://www.youtube.com/channel/UC7qxEChJNOMVrfNRKU1mw6g"
+          },
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\maxresdefault-613C0.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788189140435992616",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:42:14.926+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ive never seen you commmit to anything",
+      "author": {
+        "id": "732244828393308333",
+        "name": "yoyo~kween",
+        "discriminator": "2383",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\2c6e72f191b424a0a25eca5dc5f6fff4-E9AFE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788189175841161287",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:42:23.367+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You lazy piece of poop",
+      "author": {
+        "id": "732244828393308333",
+        "name": "yoyo~kween",
+        "discriminator": "2383",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\2c6e72f191b424a0a25eca5dc5f6fff4-E9AFE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788189197533184041",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:42:28.539+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ofc",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "732244828393308333",
+          "name": "yoyo~kween",
+          "discriminator": 2383,
+          "nickname": "It was a mistake to cum here",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "788189393227218974",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:43:15.196+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh yea depression incarnate",
+      "author": {
+        "id": "732244828393308333",
+        "name": "yoyo~kween",
+        "discriminator": "2383",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\2c6e72f191b424a0a25eca5dc5f6fff4-E9AFE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "511656055974133780",
+          "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+          "discriminator": 1511,
+          "nickname": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "788189478652870666",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:43:35.563+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Depression incarnate?",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788189484402868314",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:43:36.934+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lmao",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788189807972057108",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:44:54.079+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":person_dabbing: :person_dabbing: :person_dabbing: :person_dabbing:",
+      "author": {
+        "id": "732244828393308333",
+        "name": "yoyo~kween",
+        "discriminator": "2383",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\2c6e72f191b424a0a25eca5dc5f6fff4-E9AFE.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789371128576868412",
+      "type": "Default",
+      "timestamp": "2020-12-18T05:59:02.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How do I end my depression",
+      "author": {
+        "id": "581882272387694603",
+        "name": "Human",
+        "discriminator": "5986",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\726f42cece3f5ee0b0b1ec2e8dd4d15e-F977C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789373198709030924",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:07:16.417+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "By gun",
+      "author": {
+        "id": "524430573964361733",
+        "name": "Anthony2be",
+        "discriminator": "1900",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\a064a3c103c5a6547ddf20d2c05b1875-F6072.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789377403889385532",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:23:59.01+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "grilled cheese",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "581882272387694603",
+          "name": "Human",
+          "discriminator": 5986,
+          "nickname": "Human",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "789377415603552287",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:24:01.803+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "make 2 even!",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789377456074653706",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:24:11.452+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tomato soup if u feeling fancy :)",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789377688271192074",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:25:06.812+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "by being pgo",
+      "author": {
+        "id": "638042017737211933",
+        "name": "\uD835\uDCE1\uD835\uDCD6\uD835\uDCE7\uD835\uDCE8\uD835\uDCE9",
+        "discriminator": "5132",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\4deeb3f8c5c18b71e0ff7714dbf421a2-92442.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "581882272387694603",
+          "name": "Human",
+          "discriminator": 5986,
+          "nickname": "Human",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "789377718084042772",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:25:13.92+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you ask me you can end depression by:\n die\n undepress",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789377777982898176",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:25:28.201+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no !",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789377790998478888",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:25:31.304+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "go out into the woods",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789377799059537950",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:25:33.226+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "collect sticks",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789377802025041942",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:25:33.933+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "rocks",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789377811738656768",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:25:36.249+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pebbles",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789377817225068544",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:25:37.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ".....",
+      "author": {
+        "id": "581882272387694603",
+        "name": "Human",
+        "discriminator": "5986",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\726f42cece3f5ee0b0b1ec2e8dd4d15e-F977C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789377822850023465",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:25:38.898+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "become goblin!",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789377835608702996",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:25:41.94+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "moss is good",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789377919025020938",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:26:01.828+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hmm",
+      "author": {
+        "id": "581882272387694603",
+        "name": "Human",
+        "discriminator": "5986",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\726f42cece3f5ee0b0b1ec2e8dd4d15e-F977C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789377929389801473",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:26:04.299+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "True",
+      "author": {
+        "id": "581882272387694603",
+        "name": "Human",
+        "discriminator": "5986",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\726f42cece3f5ee0b0b1ec2e8dd4d15e-F977C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789389947374403586",
+      "type": "Default",
+      "timestamp": "2020-12-18T07:13:49.61+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "743862094134509578",
+        "name": "HelpMate",
+        "discriminator": "8798",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\a2a9a17251bbb594380a9b89108196a8-6CAA2.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A slowmode of 1s has been activated by a moderator.",
+          "url": null,
+          "timestamp": "2020-12-18T07:13:49.32+00:00",
+          "description": "",
+          "color": "#363940",
+          "footer": {
+            "text": "Applied by \uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9#1511",
+            "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-2640B.webp"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789499234470330378",
+      "type": "Default",
+      "timestamp": "2020-12-18T14:28:05.684+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I\u0027ve release how to end my depression",
+      "author": {
+        "id": "581882272387694603",
+        "name": "Human",
+        "discriminator": "5986",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\726f42cece3f5ee0b0b1ec2e8dd4d15e-F977C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789499274672865320",
+      "type": "Default",
+      "timestamp": "2020-12-18T14:28:15.269+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/hang-suizide-desgosto-suicide-rope-gif-15405316",
+      "author": {
+        "id": "581882272387694603",
+        "name": "Human",
+        "discriminator": "5986",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\726f42cece3f5ee0b0b1ec2e8dd4d15e-F977C.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/hang-suizide-desgosto-suicide-rope-gif-15405316",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\tenor-10C70.png",
+            "width": 640,
+            "height": 484
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789499523860398121",
+      "type": "Default",
+      "timestamp": "2020-12-18T14:29:14.68+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ez",
+      "author": {
+        "id": "484593355859427329",
+        "name": "GFTK",
+        "discriminator": "4227",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\31312cd0186c5e54441eb2effb25c1ba-88BBA.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789499620417994784",
+      "type": "Default",
+      "timestamp": "2020-12-18T14:29:37.701+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes",
+      "author": {
+        "id": "581882272387694603",
+        "name": "Human",
+        "discriminator": "5986",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\726f42cece3f5ee0b0b1ec2e8dd4d15e-F977C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790238096398614530",
+      "type": "Default",
+      "timestamp": "2020-12-20T15:24:04.095+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is it possible to easily make a particle ring in minecraft?",
+      "author": {
+        "id": "484593355859427329",
+        "name": "GFTK",
+        "discriminator": "4227",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\31312cd0186c5e54441eb2effb25c1ba-88BBA.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790250954167287828",
+      "type": "Default",
+      "timestamp": "2020-12-20T16:15:09.626+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Either rotate recursively or cw particle gen",
+      "author": {
+        "id": "372715536121069578",
+        "name": "asdru",
+        "discriminator": "3882",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\bbb27a6e37ce288de87749999058aeb2-4461E.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790313271445291018",
+      "type": "Default",
+      "timestamp": "2020-12-20T20:22:47.223+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@GFTK ^",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "484593355859427329",
+          "name": "GFTK",
+          "discriminator": 4227,
+          "nickname": "GFTK",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "790315205573345330",
+      "type": "Default",
+      "timestamp": "2020-12-20T20:30:28.355+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok",
+      "author": {
+        "id": "484593355859427329",
+        "name": "GFTK",
+        "discriminator": "4227",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2753help-chat-3 [785608531301761115].json_Files\\31312cd0186c5e54441eb2effb25c1ba-88BBA.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 113
+}

@@ -1,0 +1,813 @@
+{
+  "guild": {
+    "id": "648294947123888128",
+    "name": "Knowledge Base",
+    "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\a56bcbda5ea1db3e101c6895440d1c5b-CBC3F.png"
+  },
+  "channel": {
+    "id": "783451128854609970",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDD12Archived Channels",
+    "name": "jpi-vs-songs-of-war-dump",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "784586739539902524",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:07:35.623+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/playlist?list=PLEeT3Ux-diOy7NCAcE105P9-GOZ1C-MNk",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SONGS OF WAR VANILLA MINECRAFT",
+          "url": "https://www.youtube.com/playlist?list=PLEeT3Ux-diOy7NCAcE105P9-GOZ1C-MNk",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\hqdefault-19418.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784586794167173150",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:07:48.647+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784586790471598100",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-D2A59.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 376664
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784586811031683082",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:07:52.668+00:00",
+      "timestampEdited": "2020-12-05T01:07:54.892+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(Thumbnails and titles included there)",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784587054901755924",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:08:50.811+00:00",
+      "timestampEdited": "2020-12-05T01:12:09.687+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "---= **Songs Of War: How To Get THALLEOUS\u0027 SWORD in Minecraft (1.15/1.16) [Vanilla Command] RESOURCE PACK** =--\nDescription:",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784587052917456896",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-E7DC2.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 100925
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784587108530257920",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:09:03.597+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Adlink:",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784587106625257482",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-1FC8B.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 7316
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784587178084532304",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:09:20.18+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Prevents them from working together:",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784587175206322196",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-2D4EE.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 4427
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784587217389486080",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:09:29.551+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Self promotion",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784587214867922944",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-C1790.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 8329
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784587268408868874",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:09:41.715+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "More self promotion",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784587266425225246",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-CD21D.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 37797
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784587323950104586",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:09:54.957+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Stolen credit",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784587322191773696",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-F2E16.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 4749
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784587757904724008",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:11:38.42+00:00",
+      "timestampEdited": "2020-12-05T01:11:56.702+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Download to video: Over 50mb can\u0027t send will have to upload to a website\n\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784587788720275457",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:11:45.767+00:00",
+      "timestampEdited": "2020-12-05T01:12:04.029+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--= **Songs Of War: How To Get Deathsinger\u0027s SWORD in Minecraft (1.15/1.16)-Vanilla Command RESOURCE PACK** =--",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784587820245188638",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:11:53.283+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Description:",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784587815652294666",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-963A6.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 94142
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784587948716589127",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:12:23.913+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Stolen credit",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784587945469411338",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-BEA7D.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 6827
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784587973613322240",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:12:29.849+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Adlink:",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784587970656206858",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-082FD.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 5439
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784588030886281216",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:12:43.504+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Doesn\u0027t work together",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784588026050773002",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-6AB5C.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 7275
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784588059009089536",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:12:50.209+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Self promotion:",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784588056665653248",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-C2FE4.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 7247
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784588103125434400",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:13:00.727+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Last self promotion:",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784588100819091476",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-E5041.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 37932
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784588269547421737",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:13:40.405+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Download: Also over 50mb",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784588278388883486",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:13:42.513+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784588486912376852",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:14:32.229+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--= **Songs Of War: How To Get Tidesinger\u0027s STAFF in Minecraft (1.15/1.16) Vanilla Command RESOURCE PACK** =--\nNot even gonna bother with description\nStolen credit:",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784588484114907166",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-BFC24.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 6668
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784588578800926720",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:14:54.137+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Adlink \u002B Don\u0027t work \u002B Self promotion",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784588576742047744",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-B634C.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 23211
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784588697562906665",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:15:22.452+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Download: Who would\u0027ve guessed over 50mb too",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784588706756427786",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:15:24.644+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784588784779264040",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:15:43.246+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--= **So I became a KING of the END \u0026 NETHER.. [Datapack] (1.16 Vanilla Minecraft) - Songs of War Download** =--",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784588883442139156",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:16:06.769+00:00",
+      "timestampEdited": "2020-12-05T01:16:10.373+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WAIT HE ACTUALLY GAVE *some* CREDIT THIS TIME",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784588881504239616",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-35F93.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 5798
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784588989473882153",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:16:32.049+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DID HE NOT DO AN AD LINK THIS TIME?",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784588983031300146",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-7BB63.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 4783
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784589154515550238",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:17:11.398+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":o he didn\u0027t do an adlink",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784589266655117333",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:17:38.134+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He *finally* gave credit on this last video",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784589262871724082",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\unknown-2A9DB.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 12286
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785286477285818439",
+      "type": "Default",
+      "timestamp": "2020-12-06T23:28:06.102+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so maybe they did get involved?",
+      "author": {
+        "id": "524430573964361733",
+        "name": "Anthony2be",
+        "discriminator": "1900",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\a064a3c103c5a6547ddf20d2c05b1875-F6072.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786394958998798346",
+      "type": "Default",
+      "timestamp": "2020-12-10T00:52:48.737+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yup",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786394979408019456",
+      "type": "Default",
+      "timestamp": "2020-12-10T00:52:53.603+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nice boy",
+      "author": {
+        "id": "731879499653840916",
+        "name": "\uD835\uDC1B\uD835\uDC25\u4E42R\u0338\u033F\u033Fa\u0336\u034B\u035By\u0335\u035D\u0307m\u0334\u030C\u030Ae\u0337\u0314\u034Ad\u0336\u030B\u030D",
+        "discriminator": "5367",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\1e528b7f1f7d964ee13190505fae0283-92B26.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789390099720568843",
+      "type": "Default",
+      "timestamp": "2020-12-18T07:14:25.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "743862094134509578",
+        "name": "HelpMate",
+        "discriminator": "8798",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\a2a9a17251bbb594380a9b89108196a8-6CAA2.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A slowmode of 1s has been activated by a moderator.",
+          "url": null,
+          "timestamp": "2020-12-18T07:14:25.533+00:00",
+          "description": "",
+          "color": "#363940",
+          "footer": {
+            "text": "Applied by \uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9#1511",
+            "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - jpi-vs-songs-of-war-dump [783451128854609970].json_Files\\382b515765ba3155c7461c9842c0cb88-2640B.webp"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 32
+}

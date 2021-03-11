@@ -1,0 +1,1337 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Knowledge Base - jpi-vs-mumbo</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+
+    <style>
+        /* General */
+
+@font-face {
+    font-family: Whitney;
+    src: url(https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-300.woff);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: Whitney;
+    src: url(https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-400.woff);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Whitney;
+    src: url(https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-500.woff);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Whitney;
+    src: url(https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-600.woff);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: Whitney;
+    src: url(https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-700.woff);
+    font-weight: 700;
+}
+
+body {
+    font-family: "Whitney", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    object-fit: contain;
+}
+
+.markdown {
+    max-width: 100%;
+    line-height: 1.3;
+    overflow-wrap: break-word;
+}
+
+.preserve-whitespace {
+    white-space: pre-wrap;
+}
+
+.spoiler {
+    /* width: fit-content; */
+    display: inline-block;
+    /* This is more consistent across browsers, the old attribute worked well under Chrome but not FireFox. */
+}
+
+.spoiler--hidden {
+    cursor: pointer;
+}
+
+.spoiler-text {
+    border-radius: 3px;
+}
+
+.spoiler--hidden .spoiler-text {
+    color: rgba(0, 0, 0, 0);
+}
+
+.spoiler--hidden .spoiler-text::selection {
+    color: rgba(0, 0, 0, 0);
+}
+
+.spoiler-image {
+    position: relative;
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+.spoiler--hidden .spoiler-image {
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.spoiler--hidden .spoiler-image * {
+    filter: blur(44px);
+}
+
+    .spoiler--hidden .spoiler-image:after {
+        content: "SPOILER";
+        color: #dcddde;
+        background-color: rgba(0, 0, 0, 0.6);
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        font-weight: 600;
+        /* padding: 0.5em 0.7em; */
+        padding: 100%;
+        /* This ruins those beutifully rounded buttons, but it's needed to prevent a FireFox bug with video and audio elemnts. */
+        /* The bug is that you can click trough the spoiler layer and play the video or audio, I could not identify the cause. */
+        /* I leave this here, in case someone is brave enough to venture in to madness that is undocumented browser behaviour. */
+        border-radius: 20px;
+        letter-spacing: 0.05em;
+        font-size: 0.9em;
+    }
+
+.spoiler--hidden:hover .spoiler-image:after {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.quote {
+    margin: 0.1em 0;
+    padding-left: 0.6em;
+    border-left: 4px solid;
+    border-radius: 3px;
+}
+
+.pre {
+    font-family: "Consolas", "Courier New", Courier, monospace;
+}
+
+.pre--multiline {
+    margin-top: 0.25em;
+    padding: 0.5em;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+.pre--inline {
+    padding: 2px;
+    border-radius: 3px;
+    font-size: 0.85em;
+}
+
+.mention {
+    border-radius: 3px;
+    padding: 0 2px;
+    color: #7289da;
+    background: rgba(114, 137, 218, .1);
+    font-weight: 500;
+}
+
+.emoji {
+    width: 1.25em;
+    height: 1.25em;
+    margin: 0 0.06em;
+    vertical-align: -0.4em;
+}
+
+.emoji--small {
+    width: 1em;
+    height: 1em;
+}
+
+.emoji--large {
+    width: 2.8em;
+    height: 2.8em;
+}
+
+/* Preamble */
+
+.preamble {
+    display: grid;
+    margin: 0 0.3em 0.6em 0.3em;
+    max-width: 100%;
+    grid-template-columns: auto 1fr;
+}
+
+.preamble__guild-icon-container {
+    grid-column: 1;
+}
+
+.preamble__guild-icon {
+    max-width: 88px;
+    max-height: 88px;
+}
+
+.preamble__entries-container {
+    grid-column: 2;
+    margin-left: 0.6em;
+}
+
+.preamble__entry {
+    font-size: 1.4em;
+}
+
+.preamble__entry--small {
+    font-size: 1em;
+}
+
+/* Chatlog */
+
+.chatlog {
+    max-width: 100%;
+}
+
+.chatlog__message-group {
+    display: grid;
+    margin: 0 0.6em;
+    padding: 0.9em 0;
+    border-top: 1px solid;
+    grid-template-columns: auto 1fr;
+}
+
+.chatlog__author-avatar-container {
+    grid-column: 1;
+    width: 40px;
+    height: 40px;
+}
+
+.chatlog__author-avatar {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+}
+
+.chatlog__messages {
+    grid-column: 2;
+    margin-left: 1.2em;
+    min-width: 50%;
+}
+
+.chatlog__author-name {
+    font-weight: 500;
+}
+
+.chatlog__timestamp {
+    margin-left: 0.3em;
+    font-size: 0.75em;
+}
+
+.chatlog__message {
+    padding: 0.1em 0.3em;
+    margin: 0 -0.3em;
+    background-color: transparent;
+    transition: background-color 1s ease;
+}
+
+.chatlog__content {
+    font-size: 0.95em;
+    word-wrap: break-word;
+}
+
+.chatlog__edited-timestamp {
+    margin-left: 0.15em;
+    font-size: 0.8em;
+}
+
+.chatlog__attachment {
+    margin-top: 0.3em;
+}
+
+.chatlog__attachment-thumbnail {
+    vertical-align: top;
+    max-width: 45vw;
+    max-height: 500px;
+    border-radius: 3px;
+}
+
+.chatlog__embed {
+    display: flex;
+    margin-top: 0.3em;
+    max-width: 520px;
+}
+
+.chatlog__embed-color-pill {
+    flex-shrink: 0;
+    width: 0.25em;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.chatlog__embed-content-container {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em 0.6em;
+    border: 1px solid;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.chatlog__embed-content {
+    display: flex;
+    width: 100%;
+}
+
+.chatlog__embed-text {
+    flex: 1;
+}
+
+.chatlog__embed-author {
+    display: flex;
+    margin-bottom: 0.3em;
+    align-items: center;
+}
+
+.chatlog__embed-author-icon {
+    margin-right: 0.5em;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.chatlog__embed-author-name {
+    font-size: 0.875em;
+    font-weight: 600;
+}
+
+.chatlog__embed-title {
+    margin-bottom: 0.2em;
+    font-size: 0.875em;
+    font-weight: 600;
+}
+
+.chatlog__embed-description {
+    font-weight: 500;
+    font-size: 0.85em;
+}
+
+.chatlog__embed-fields {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.chatlog__embed-field {
+    flex: 0;
+    min-width: 100%;
+    max-width: 506px;
+    padding-top: 0.6em;
+    font-size: 0.875em;
+}
+
+.chatlog__embed-field--inline {
+    flex: 1;
+    flex-basis: auto;
+    min-width: 150px;
+}
+
+.chatlog__embed-field-name {
+    margin-bottom: 0.2em;
+    font-weight: 600;
+}
+
+.chatlog__embed-field-value {
+    font-weight: 500;
+}
+
+.chatlog__embed-thumbnail {
+    flex: 0;
+    margin-left: 1.2em;
+    max-width: 80px;
+    max-height: 80px;
+    border-radius: 3px;
+}
+
+.chatlog__embed-image-container {
+    margin-top: 0.6em;
+}
+
+.chatlog__embed-image {
+    max-width: 500px;
+    max-height: 400px;
+    border-radius: 3px;
+}
+
+.chatlog__embed-footer {
+    margin-top: 0.6em;
+}
+
+.chatlog__embed-footer-icon {
+    margin-right: 0.2em;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.chatlog__embed-footer-text {
+    font-size: 0.75em;
+    font-weight: 500;
+}
+
+.chatlog__reactions {
+    display: flex;
+}
+
+.chatlog__reaction {
+    display: flex;
+    align-items: center;
+    margin: 0.35em 0.1em 0.1em 0.1em;
+    padding: 0.2em 0.35em;
+    border-radius: 3px;
+}
+
+.chatlog__reaction-count {
+    min-width: 9px;
+    margin-left: 0.35em;
+    font-size: 0.875em;
+}
+
+.chatlog__bot-tag {
+    position: relative;
+    top: -.2em;
+    margin-left: 0.3em;
+    padding: 0.05em 0.3em;
+    border-radius: 3px;
+    vertical-align: middle;
+    line-height: 1.3;
+    background: #7289da;
+    color: #ffffff;
+    font-size: 0.625em;
+    font-weight: 500;
+}
+
+/* Postamble */
+
+.postamble {
+    margin: 1.4em 0.3em 0.6em 0.3em;
+    padding: 1em;
+    border-top: 1px solid;
+}
+    </style>
+    <style>
+        /* General */
+
+body {
+    background-color: #ffffff;
+    color: #23262a;
+    font-weight: 500;
+}
+
+a {
+    color: #00b0f4;
+}
+
+.spoiler-text {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.spoiler--hidden .spoiler-text {
+    background-color: #b9bbbe;
+}
+
+.spoiler--hidden:hover .spoiler-text {
+    background-color: rgba(185, 187, 190, 0.8);
+}
+
+.quote {
+    border-color: #c7ccd1;
+}
+
+.pre {
+    background-color: #f9f9f9 !important;
+}
+
+.pre--multiline {
+    border-color: #f3f3f3 !important;
+    color: #657b83 !important;
+}
+
+/* Preamble */
+
+.preamble__entry {
+    color: #2f3136;
+}
+
+/* Chatlog */
+
+.chatlog__message-group {
+    border-color: #eceeef;
+}
+
+.chatlog__author-name {
+    font-weight: 600;
+    color: #2f3136;
+}
+
+.chatlog__timestamp {
+    color: #747f8d;
+}
+
+.chatlog__message--highlighted {
+    background-color: rgba(114, 137, 218, 0.2) !important;
+}
+
+.chatlog__message--pinned {
+    background-color: rgba(249, 168, 37, 0.05);
+}
+
+.chatlog__edited-timestamp {
+    color: #747f8d;
+}
+
+.chatlog__embed-color-pill--default {
+    background-color: rgba(227, 229, 232, 1);
+}
+
+.chatlog__embed-content-container {
+    background-color: rgba(249, 249, 249, 0.3);
+    border-color: rgba(204, 204, 204, 0.3);
+}
+
+.chatlog__embed-author-name {
+    color: #4f545c;
+}
+
+.chatlog__embed-author-name-link {
+    color: #4f545c;
+}
+
+.chatlog__embed-title {
+    color: #4f545c;
+}
+
+.chatlog__embed-description {
+    color: #737f8d;
+}
+
+.chatlog__embed-field-name {
+    color: #36393e;
+}
+
+.chatlog__embed-field-value {
+    color: #737f8d;
+}
+
+.chatlog__embed-footer {
+    color: rgba(79, 83, 91, 0.6);
+}
+
+.chatlog__reaction {
+    background-color: rgba(79, 84, 92, 0.06);
+}
+
+.chatlog__reaction-count {
+    color: #747f8d;
+}
+
+/* Postamble */
+
+.postamble {
+    border-color: #eceeef;
+}
+
+.postamble__entry {
+    color: #2f3136;
+}
+    </style>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/solarized-light.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('.pre--multiline').forEach(block => hljs.highlightBlock(block));
+        });
+    </script>
+
+    <script>
+        function scrollToMessage(event, id) {
+            var element = document.getElementById('message-' + id);
+
+            if (element) {
+                event.preventDefault();
+
+                element.classList.add('chatlog__message--highlighted');
+
+                window.scrollTo({
+                    top: element.getBoundingClientRect().top - document.body.getBoundingClientRect().top - (window.innerHeight / 2),
+                    behavior: 'smooth'
+                });
+
+                window.setTimeout(function() {
+                    element.classList.remove('chatlog__message--highlighted');
+                }, 2000);
+            }
+        }
+
+        function showSpoiler(event, element) {
+            if (element && element.classList.contains('spoiler--hidden')) {
+                event.preventDefault();
+                element.classList.remove('spoiler--hidden');
+            }
+        }
+    </script>
+</head>
+<body>
+
+<div class="preamble">
+    <div class="preamble__guild-icon-container">
+        <img class="preamble__guild-icon" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/a56bcbda5ea1db3e101c6895440d1c5b-CBC3F.png" alt="Guild icon">
+    </div>
+    <div class="preamble__entries-container">
+        <div class="preamble__entry">Knowledge Base</div>
+        <div class="preamble__entry">&#128274;Archived Channels / jpi-vs-mumbo</div>
+
+
+    </div>
+</div>
+
+<div class="chatlog">
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/382b515765ba3155c7461c9842c0cb88-8D76B.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#128017;Sheep-kun; SheepCommander☭&#127913;#1511" data-user-id="511656055974133780" style="color: rgb(240,255,240)">&#128017;Sheep-kun; SheepCommander☭&#127913;</span>
+
+
+        <span class="chatlog__timestamp">01-Dec-20 12:25 PM</span>
+
+            <div class="chatlog__message " data-message-id="783428589529333812" id="message-783428589529333812">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">--= <strong>John Paul Inso completely steals from Mumbo</strong> =--
+Here we&#39;ll compare a video made by John Paul Inso and a video made by Mumbo
+<strong>John Paul Inso</strong></span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="783428638346706973" id="message-783428638346706973">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace"><img class="emoji " alt="🔗" title="🔗" src="https://twemoji.maxcdn.com/2/72x72/1f517.png"> <a href="https://www.youtube.com/watch?v=FmFG_t6izQ0">https://www.youtube.com/watch?v=FmFG_t6izQ0</a></span>
+
+                        </div>
+                    </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(255,0,0,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+                                        <div class="chatlog__embed-author">
+
+                                                <span class="chatlog__embed-author-name">
+                                                        <a class="chatlog__embed-author-name-link" href="https://www.youtube.com/channel/UC6Rtp0D7qMZ1asHSsClA29Q">John Paul Inso</a>
+                                                </span>
+                                        </div>
+
+                                        <div class="chatlog__embed-title">
+                                                <a class="chatlog__embed-title-link" href="https://www.youtube.com/watch?v=FmFG_t6izQ0">
+                                                    <div class="markdown preserve-whitespace">Minecraft: 20 Doors in 100 Seconds | Custom Map</div>
+                                                </a>
+                                        </div>
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown preserve-whitespace">You can learn many doors in this map which will improve your redstone creation Skill. This was made about 2 years ago. Be sure to like and Subscribe, I will really Appreciate it, And Showing support for me.
+•Never Miss a Video► <a href="http://bit.ly/SubscribeJohnPaulInso">http://bit.ly/SubscribeJohnPaulInso</a>
+
+~-~-~-~-DOWNLOADS!~-~-~-~-
+
+20 Doors in 100 Seconds Map►<a href="http://bit.ly/2gS4W8i">http://bit.ly/2gS4W8i</a>
+
+~-~...</div>
+                                        </div>
+
+                                </div>
+
+                                    <div class="chatlog__embed-thumbnail-container">
+                                        <a class="chatlog__embed-thumbnail-link" href="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/maxresdefault-0BFD4.jpg">
+                                            <img class="chatlog__embed-thumbnail" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/maxresdefault-0BFD4.jpg" alt="Thumbnail">
+                                        </a>
+                                    </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+                    <div class="chatlog__reactions">
+                            <div class="chatlog__reaction">
+                                <img class="emoji emoji--small" alt="&#128169;" title="&#128169;" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/1f4a9-79AA8.png">
+                                <span class="chatlog__reaction-count">1</span>
+                            </div>
+                    </div>
+            </div>
+            <div class="chatlog__message " data-message-id="783428728054218823" id="message-783428728054218823">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">Video download:</span>
+
+                                <span class="chatlog__edited-timestamp" title="06-Dec-20 02:59 PM">(edited)</span>
+                        </div>
+                    </div>
+
+                    <div class="chatlog__attachment">
+                        <div class="" onclick="">
+                            <div class="">
+                                    <video controls class="chatlog__attachment-thumbnail">
+                                        <source src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/Minecraft_20_Doors_in_100_Seconds_Custom_M-4016C.mp4" alt="Video attachment" title="Video: Minecraft_20_Doors_in_100_Seconds_Custom_Map.mp4 (29.28 MB)">
+                                    </video>
+                            </div>
+                        </div>
+                    </div>
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="783428756039401524" id="message-783428756039401524">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">Description:</span>
+
+                        </div>
+                    </div>
+
+                    <div class="chatlog__attachment">
+                        <div class="" onclick="">
+                            <div class="">
+                                    <a href="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/unknown-890CC.png">
+                                        <img class="chatlog__attachment-thumbnail" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/unknown-890CC.png" alt="Image attachment" title="Image: unknown.png (74.15 KB)">
+                                    </a>
+                            </div>
+                        </div>
+                    </div>
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="783428796136685569" id="message-783428796136685569">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">Thumbnail:</span>
+
+                        </div>
+                    </div>
+
+                    <div class="chatlog__attachment">
+                        <div class="" onclick="">
+                            <div class="">
+                                    <a href="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/unknown-60A2D.png">
+                                        <img class="chatlog__attachment-thumbnail" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/unknown-60A2D.png" alt="Image attachment" title="Image: unknown.png (235.82 KB)">
+                                    </a>
+                            </div>
+                        </div>
+                    </div>
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="783428809596731402" id="message-783428809596731402">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace"><strong>Mumbo</strong></span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="783428911064809492" id="message-783428911064809492">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace"><img class="emoji " alt="🔗" title="🔗" src="https://twemoji.maxcdn.com/2/72x72/1f517.png"> <a href="https://www.youtube.com/watch?v=1CAp2NmhZEU">https://www.youtube.com/watch?v=1CAp2NmhZEU</a></span>
+
+                        </div>
+                    </div>
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(255,0,0,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+                                        <div class="chatlog__embed-author">
+
+                                                <span class="chatlog__embed-author-name">
+                                                        <a class="chatlog__embed-author-name-link" href="https://www.youtube.com/channel/UChFur_NwVSbUozOcF_F2kMg">Mumbo Jumbo</a>
+                                                </span>
+                                        </div>
+
+                                        <div class="chatlog__embed-title">
+                                                <a class="chatlog__embed-title-link" href="https://www.youtube.com/watch?v=1CAp2NmhZEU">
+                                                    <div class="markdown preserve-whitespace">Minecraft: 20 Doors In 100 Seconds</div>
+                                                </a>
+                                        </div>
+
+                                        <div class="chatlog__embed-description">
+                                            <div class="markdown preserve-whitespace">If you enjoyed this little video, please leave a LIKE! Let me know if you want more!
+
+Behind the scenes! <a href="https://www.youtube.com/watch?v=ebTrld_dRpA">https://www.youtube.com/watch?v=ebTrld_dRpA</a>
+
+Support this post on reddit: <a href="http://www.reddit.com/r/Minecraft/comments/244g0m/20_doors_in_100_seconds/">http://www.reddit.com/r/Minecraft/comments/244g0m/20_doors_in_100_seconds/</a>
+
+2ND CHANNEL: <a href="https://www.youtube.com/OfficialMumbo">https://www.youtube.com/OfficialMumbo</a>
+TWITTER: <a href="https://twitter.com/ThatMumboJum">https://twitter.com/ThatMumboJum</a>...</div>
+                                        </div>
+
+                                </div>
+
+                                    <div class="chatlog__embed-thumbnail-container">
+                                        <a class="chatlog__embed-thumbnail-link" href="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/maxresdefault-5BEAA.jpg">
+                                            <img class="chatlog__embed-thumbnail" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/maxresdefault-5BEAA.jpg" alt="Thumbnail">
+                                        </a>
+                                    </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+            </div>
+            <div class="chatlog__message " data-message-id="783429208872714240" id="message-783429208872714240">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace"><strong>Description:</strong> 
+Here John Paul Inso completely stole the title, the world download, AND the thumbnail.
+If you check the world download it shows Mumbo is the only one who ever played on it</span>
+
+                                <span class="chatlog__edited-timestamp" title="01-Dec-20 12:28 PM">(edited)</span>
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="783430023293435964" id="message-783430023293435964">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">Almost forgot here&#39;s the download <em>John Paul Inso</em> provided, you&#39;ll notice that only Mumbo ever played on it meaning that he literally just took Mumbo&#39;s download and redistributed it</span>
+
+                                <span class="chatlog__edited-timestamp" title="04-Dec-20 03:34 PM">(edited)</span>
+                        </div>
+                    </div>
+
+                    <div class="chatlog__attachment">
+                        <div class="" onclick="">
+                            <div class="">
+                                    <a href="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/20_Doors_In_Minecraft-CF77B.zip">
+                                        Attachment: 20_Doors_In_Minecraft.zip (1.32 MB)
+                                    </a>
+                            </div>
+                        </div>
+                    </div>
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/bbb27a6e37ce288de87749999058aeb2-4461E.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="asdru#3882" data-user-id="372715536121069578" style="color: rgb(26,188,156)">cumsock commander</span>
+
+
+        <span class="chatlog__timestamp">10-Dec-20 03:47 AM</span>
+
+            <div class="chatlog__message " data-message-id="786559723222204426" id="message-786559723222204426">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">LMAO 0:26 the mumbo door</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="786559727005335572" id="message-786559727005335572">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">epic</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="786559750690439208" id="message-786559750690439208">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">definetly made by him</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/7aea0d1ac9f92c5ee79c40d2f52669ea-E1AE6.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Quackleb#6473" data-user-id="523238128325230622" style="color: rgb(153,45,34)">Quackleb</span>
+
+
+        <span class="chatlog__timestamp">11-Dec-20 04:51 AM</span>
+
+            <div class="chatlog__message " data-message-id="786938317491929108" id="message-786938317491929108">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">Ok yes he showed of the map in his video</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="786938367556190229" id="message-786938367556190229">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">He gave credit at the beginning and never tried to claim he made it</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/f7c7618877878f5553aabb1cb1098723-D0579.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Flopflip#7557" data-user-id="460622908767731752" style="color: rgb(155,89,182)">Flopflip</span>
+
+
+        <span class="chatlog__timestamp">11-Dec-20 08:04 AM</span>
+
+            <div class="chatlog__message " data-message-id="786986824219230278" id="message-786986824219230278">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">That&#39;s not creative use</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="786986838413934623" id="message-786986838413934623">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">That&#39;s stealing</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/a064a3c103c5a6547ddf20d2c05b1875-F6072.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Anthony2be#1900" data-user-id="524430573964361733" style="color: rgb(89,234,253)">PythonCommander</span>
+
+
+        <span class="chatlog__timestamp">11-Dec-20 08:52 AM</span>
+
+            <div class="chatlog__message " data-message-id="786998759779336192" id="message-786998759779336192">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">uhhhhh he literally ripped the download link</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="786998814544232458" id="message-786998814544232458">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">and made a vid showcasing it</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="786998867740459048" id="message-786998867740459048">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">thats basically stealing</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/4b14bfc99fd523c50cf922049ea77f89-B779C.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Cloud Wolf#5592" data-user-id="312743067461353483" style="color: rgb(26,188,156)">Cloud Wolf</span>
+
+
+        <span class="chatlog__timestamp">11-Dec-20 09:01 AM</span>
+
+            <div class="chatlog__message " data-message-id="787001173223276544" id="message-787001173223276544">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">not to mention the thumbnail is the same</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="787001228429099059" id="message-787001228429099059">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">he just stamped his ugly a*% avatar on it</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="VeSaucy#4506" data-user-id="209494852121919490" style="color: rgb(26,188,156)">&#191;Quieres?</span>
+
+
+        <span class="chatlog__timestamp">11-Dec-20 09:23 AM</span>
+
+            <div class="chatlog__message " data-message-id="787006551096819743" id="message-787006551096819743">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">his avatar is aids</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="787006596269998080" id="message-787006596269998080">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">if i could strangle it i would</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="787006695956152401" id="message-787006695956152401">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">he doesn’t even have <em>an original skin</em></span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="787006795046453248" id="message-787006795046453248">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">i liked the funny part</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="787006816700989470" id="message-787006816700989470">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">where he accidentally broke a door</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="787006849181548615" id="message-787006849181548615">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">and tried putting it back</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/d0b08fcea7cf8b73c09662862dc54157-156FB.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#127876;DorkByAWaffle#5886" data-user-id="684243354644643898" style="color: rgb(155,89,182)">&#127876;DorkByAWaffle</span>
+
+
+        <span class="chatlog__timestamp">11-Dec-20 09:24 AM</span>
+
+            <div class="chatlog__message " data-message-id="787006908388999208" id="message-787006908388999208">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">lmao</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/d9fcc819e263eddb136dd3798658d682-493BA.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="Zefyro#2750" data-user-id="349598495264735233" style="color: rgb(206,216,246)">Zefyro | #Undo1.16</span>
+
+
+        <span class="chatlog__timestamp">14-Dec-20 01:20 PM</span>
+
+            <div class="chatlog__message " data-message-id="788153512911437864" id="message-788153512911437864">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">Wait.. i just realized</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="788153579490902036" id="message-788153579490902036">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">Its actually the same thumbnail</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="788153706884759552" id="message-788153706884759552">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">He just covered the &quot;REDSTONE&quot; &#39;banner&#39; at the top right corner</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/382b515765ba3155c7461c9842c0cb88-8D76B.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#128017;Sheep-kun; SheepCommander☭&#127913;#1511" data-user-id="511656055974133780" style="color: rgb(240,255,240)">&#128017;Sheep-kun; SheepCommander☭&#127913;</span>
+
+
+        <span class="chatlog__timestamp">14-Dec-20 01:25 PM</span>
+
+            <div class="chatlog__message " data-message-id="788154816483295252" id="message-788154816483295252">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">ye</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/a2a9a17251bbb594380a9b89108196a8-6CAA2.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="HelpMate#8798" data-user-id="743862094134509578" style="">HelpMate</span>
+
+            <span class="chatlog__bot-tag">BOT</span>
+
+        <span class="chatlog__timestamp">17-Dec-20 11:14 PM</span>
+
+            <div class="chatlog__message " data-message-id="789390079482396692" id="message-789390079482396692">
+
+
+                    <div class="chatlog__embed">
+                            <div class="chatlog__embed-color-pill" style="background-color: rgba(54,57,64,255)"></div>
+
+                        <div class="chatlog__embed-content-container">
+                            <div class="chatlog__embed-content">
+                                <div class="chatlog__embed-text">
+
+                                        <div class="chatlog__embed-title">
+                                                <div class="markdown preserve-whitespace">A slowmode of 1s has been activated by a moderator.</div>
+                                        </div>
+
+
+                                </div>
+
+                            </div>
+
+
+                                <div class="chatlog__embed-footer">
+                                        <img class="chatlog__embed-footer-icon" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/382b515765ba3155c7461c9842c0cb88-2640B.webp" alt="Footer icon">
+
+                                    <span class="chatlog__embed-footer-text">
+Applied by &#128017;Sheep-kun; SheepCommander☭&#127913;#1511
+ • 
+17-Dec-20 11:14 PM                                    </span>
+                                </div>
+                        </div>
+                    </div>
+
+            </div>
+    </div>
+</div>
+
+
+<div class="chatlog__message-group">
+    <div class="chatlog__author-avatar-container">
+        <img class="chatlog__author-avatar" src="Knowledge%20Base%20-%20%F0%9F%94%92Archived%20Channels%20-%20jpi-vs-mumbo%20%5B783428463981887538%5D.html_Files/d0b08fcea7cf8b73c09662862dc54157-156FB.png" alt="Avatar">
+    </div>
+    <div class="chatlog__messages">
+        <span class="chatlog__author-name" title="&#127876;DorkByAWaffle#5886" data-user-id="684243354644643898" style="color: rgb(155,89,182)">&#127876;DorkByAWaffle</span>
+
+
+        <span class="chatlog__timestamp">23-Dec-20 05:10 PM</span>
+
+            <div class="chatlog__message " data-message-id="791472910584905759" id="message-791472910584905759">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace"><img class="emoji emoji--large" alt="🤮" title="🤮" src="https://twemoji.maxcdn.com/2/72x72/1f92e.png"> <img class="emoji emoji--large" alt="🤮" title="🤮" src="https://twemoji.maxcdn.com/2/72x72/1f92e.png"> <img class="emoji emoji--large" alt="🤮" title="🤮" src="https://twemoji.maxcdn.com/2/72x72/1f92e.png"> <img class="emoji emoji--large" alt="🤮" title="🤮" src="https://twemoji.maxcdn.com/2/72x72/1f92e.png"></span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+            <div class="chatlog__message " data-message-id="791472922307854336" id="message-791472922307854336">
+                    <div class="chatlog__content">
+                        <div class="markdown">
+                            <span class="preserve-whitespace">SLOWMODE</span>
+
+                        </div>
+                    </div>
+
+
+
+            </div>
+    </div>
+</div>
+
+</div>
+
+<div class="postamble">
+    <div class="postamble__entry">Exported 35 message(s)</div>
+</div>
+
+</body>
+</html>

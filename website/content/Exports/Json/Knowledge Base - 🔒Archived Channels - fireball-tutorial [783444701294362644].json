@@ -1,0 +1,867 @@
+{
+  "guild": {
+    "id": "648294947123888128",
+    "name": "Knowledge Base",
+    "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\a56bcbda5ea1db3e101c6895440d1c5b-CBC3F.png"
+  },
+  "channel": {
+    "id": "783444701294362644",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDD12Archived Channels",
+    "name": "fireball-tutorial",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "784575386880704531",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:22:28.938+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--= **John Paul Inso\u0027s fireball tutorial** =--\n\uD83D\uDD17 https://www.youtube.com/watch?v=CBZSUyUDWlY",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How To Get RIGHT-CLICKABLE FIREBALLS in Minecraft (1.15/1.16) [Vani...",
+          "url": "https://www.youtube.com/watch?v=CBZSUyUDWlY",
+          "timestamp": null,
+          "description": "Many of you have been requesting this a lot to me to make right-clickable fireballs, I present to you the most efficient way to use this tutorial for your minecraft world and make your fireballs look more awesome with some cool effects.\n\r\nBe sure to Hit that Subscribe Button and Smash that Like button if you\u0027ve enjoyed today\u0027s video, and Help my...",
+          "color": "#FF0000",
+          "author": {
+            "name": "John Paul Inso",
+            "url": "https://www.youtube.com/channel/UC6Rtp0D7qMZ1asHSsClA29Q"
+          },
+          "thumbnail": {
+            "url": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\maxresdefault-5B390.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784575550710349844",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:23:07.998+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Description:** He gives you a crappy \u0022starterpack\u0022 and then forces you to follow his instructions using that starterpack",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784575557873958942",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:23:09.706+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784576065707835443",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:25:10.783+00:00",
+      "timestampEdited": "2020-12-05T02:09:12.292+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Story:** (This ties deeply into the last war) so basically after our suspicions were risen by  \u0060#iceologer\u0060(deleted) we went poking around and found JPI\u0027s fireball tutorial.",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784576097718370315",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:25:18.415+00:00",
+      "timestampEdited": "2020-12-05T00:25:35.57+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Now then the problem was that me and 6 other people couldn\u0027t get it to work, so we all headed over to JPI\u0027s server to see if anyone else had gotten it to work.",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784576175128313907",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:25:36.871+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784576263259553822",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:25:57.883+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Keep in mind we\u0027re not even asking people with a neutral stance or with a negative stance, WE WERE ASKING HIS FUCKING SIMPS",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784576484449845288",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:26:50.619+00:00",
+      "timestampEdited": "2020-12-05T00:27:07.021+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I pinged random people and was like \u0022What do you think of JPI\u0022 every response was some sort of praise, such as \n\u003E \u0022He DM Advertised me but I let it go because he\u0027s such an epic youtuber\u0022 \n- YokaiS, discord moderator of CommandGeek server (different YouTuber)",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784576560191111208",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:27:08.677+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784576611893903361",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:27:21.004+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And then I ask these same people if they\u0027ve ever gotten the Fireball tutorial to work",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784576661131100200",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:27:32.743+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "NOBODY HAD EVEN TRIED YET THEY BLINDLY LOVE HIM AND PRAISE HIM",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2763\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\2763-B7659.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\2764-18179.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC9F",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\1f49f-053FC.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE3B",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\1f63b-64CF6.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\1f970-1D97E.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC9B",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\1f49b-23C63.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784576680026570752",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:27:37.248+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784576753913036830",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:27:54.864+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Eventually one of his discord admins had a change of mind and decided that he infact had gotten the fireball tutorial to work",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784576990728552449",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:28:51.325+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784577492605992970",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:30:50.982+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I got \u0060minecraftjoe13\u0060 to ask on how to make Right Clickable fireballs in #\u2753help-chat (See https://canary.discord.com/channels/648294947123888128/762916308521451550/768522260038156339 ) then \u0060minecraftjoe13\u0060 asked Raymed (the admin) to answer there",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784577519180316722",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:30:57.318+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The response was priceless",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784577751620517918",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:31:52.736+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784577749096464394",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\unknown-32E95.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 104389
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784578087076626462",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:33:12.715+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He said \u0022John spawned a snowball then added fire with javascript\u0022 ||(To those who don\u0027t understand what\u0027s wrong, 1. Datapacks don\u0027t have JavaScript 2. You\u0027re not summoning the snowball the player is supposed to be throwing the snowball 3. Don\u0027t care rn might list more later)||",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784578106778189854",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:33:17.412+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784578169394298885",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:33:32.341+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Then I asked for the final datapack, AND HE SENT ME THE FUCKING STARTER PACK",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE7",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\1f1e7-86C69.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\1f1f7-2C305.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFA",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\1f1fa-CCAC3.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDED",
+            "isAnimated": false,
+            "imageUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\1f1ed-AD677.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784578488610193438",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:34:48.448+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784578486193881098",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\unknown-981C8.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 57542
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784578747155087362",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:35:50.09+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Eventually (not in the above ss) Raymed admitted that he didn\u0027t actually know that it worked and had just sent us random bullshit assuming that it would work",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784579786789879838",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:39:57.958+00:00",
+      "timestampEdited": "2020-12-05T00:40:10.986+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyways basically it was just a whole lot of bullshit that I don\u0027t care to capture the rest in here",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784584219418165249",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:57:34.779+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Here\u0027s the DMs between minecraftjoe13 and Raymed",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784584219221426246",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\Direct_Messages_-_Private_-_Raymed_7685179-B25A8.html",
+          "fileName": "Direct_Messages_-_Private_-_Raymed_768517969973608498.html",
+          "fileSizeBytes": 64236
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784590005267726356",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:20:34.233+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I completely forgot here\u0027s the title \u0026 thumbnail",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784590002784829470",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\unknown-200C4.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 137811
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784590085466619924",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:20:53.354+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The description:",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "784590083058565130",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\unknown-C72FA.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 89688
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784590147689644052",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:21:08.189+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And the video is over 50mb",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784590514967281694",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:22:35.755+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i was pointing out that he said it was the most efficient way",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784590788499341323",
+      "type": "Default",
+      "timestamp": "2020-12-05T01:23:40.97+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":doubt:",
+      "author": {
+        "id": "524430573964361733",
+        "name": "Anthony2be",
+        "discriminator": "1900",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\a064a3c103c5a6547ddf20d2c05b1875-F6072.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "209494852121919490",
+          "name": "VeSaucy",
+          "discriminator": 4506,
+          "nickname": "\u00BFQuieres?",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "786399350988210189",
+      "type": "Default",
+      "timestamp": "2020-12-10T01:10:15.869+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "notice how he is using the term \u0022starter pack\u0022 exactly like i do lol",
+      "author": {
+        "id": "312743067461353483",
+        "name": "Cloud Wolf",
+        "discriminator": "5592",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\4b14bfc99fd523c50cf922049ea77f89-B779C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786399402662821928",
+      "type": "Default",
+      "timestamp": "2020-12-10T01:10:28.189+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hmmmm",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786399417049153546",
+      "type": "Default",
+      "timestamp": "2020-12-10T01:10:31.619+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*sus*",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786451177067118663",
+      "type": "Default",
+      "timestamp": "2020-12-10T04:36:12.169+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u0060\u0060sus\u0060\u0060",
+      "author": {
+        "id": "625409615169060867",
+        "name": "Rimaru",
+        "discriminator": "3630",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\f51e7e1ea54002edca71757c0a5b818d-2AA30.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789390090945691659",
+      "type": "Default",
+      "timestamp": "2020-12-18T07:14:23.84+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "743862094134509578",
+        "name": "HelpMate",
+        "discriminator": "8798",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\a2a9a17251bbb594380a9b89108196a8-6CAA2.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A slowmode of 1s has been activated by a moderator.",
+          "url": null,
+          "timestamp": "2020-12-18T07:14:23.537+00:00",
+          "description": "",
+          "color": "#363940",
+          "footer": {
+            "text": "Applied by \uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9#1511",
+            "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - fireball-tutorial [783444701294362644].json_Files\\382b515765ba3155c7461c9842c0cb88-2640B.webp"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 34
+}

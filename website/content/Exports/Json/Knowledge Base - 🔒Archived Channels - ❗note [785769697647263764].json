@@ -1,0 +1,214 @@
+{
+  "guild": {
+    "id": "648294947123888128",
+    "name": "Knowledge Base",
+    "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2757note [785769697647263764].json_Files\\a56bcbda5ea1db3e101c6895440d1c5b-CBC3F.png"
+  },
+  "channel": {
+    "id": "785769697647263764",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDD12Archived Channels",
+    "name": "\u2757note",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "785770062845313034",
+      "type": "Default",
+      "timestamp": "2020-12-08T07:29:41.884+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--= **Special note about this category** =--\n1. **We are not affiliated with Mentioned creators (Cloud Wolf, Mumbo, BPS) in any way**\n\n2. **We do not expect anything to come out of this**",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2757note [785769697647263764].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785855163163475988",
+      "type": "Default",
+      "timestamp": "2020-12-08T13:07:51.381+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Except death",
+      "author": {
+        "id": "372715536121069578",
+        "name": "asdru",
+        "discriminator": "3882",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2757note [785769697647263764].json_Files\\bbb27a6e37ce288de87749999058aeb2-4461E.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785868179783680040",
+      "type": "Default",
+      "timestamp": "2020-12-08T13:59:34.785+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and cock and ball torture on John Paul",
+      "author": {
+        "id": "387415170982477824",
+        "name": "Dapper",
+        "discriminator": "0746",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2757note [785769697647263764].json_Files\\7823fe0d4e37db169e417f47b7f9da15-6EC33.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785870398792138783",
+      "type": "Default",
+      "timestamp": "2020-12-08T14:08:23.838+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cock and ball execution on Jhon Paul",
+      "author": {
+        "id": "372715536121069578",
+        "name": "asdru",
+        "discriminator": "3882",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2757note [785769697647263764].json_Files\\bbb27a6e37ce288de87749999058aeb2-4461E.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788467970334654474",
+      "type": "Default",
+      "timestamp": "2020-12-15T18:10:13.154+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hey funny man",
+      "author": {
+        "id": "491698120355348487",
+        "name": "CubeDeveloper",
+        "discriminator": "3934",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2757note [785769697647263764].json_Files\\db550626b4679f6a0fd26badad3de472-F529A.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789390038919938068",
+      "type": "Default",
+      "timestamp": "2020-12-18T07:14:11.436+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "743862094134509578",
+        "name": "HelpMate",
+        "discriminator": "8798",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2757note [785769697647263764].json_Files\\a2a9a17251bbb594380a9b89108196a8-6CAA2.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A slowmode of 1s has been activated by a moderator.",
+          "url": null,
+          "timestamp": "2020-12-18T07:14:11.061+00:00",
+          "description": "",
+          "color": "#363940",
+          "footer": {
+            "text": "Applied by \uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9#1511",
+            "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2757note [785769697647263764].json_Files\\382b515765ba3155c7461c9842c0cb88-2640B.webp"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789404255039520790",
+      "type": "Default",
+      "timestamp": "2020-12-18T08:10:40.823+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WAI",
+      "author": {
+        "id": "725690304157450281",
+        "name": "SwiPE",
+        "discriminator": "7728",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2757note [785769697647263764].json_Files\\d1ab933aa4ec06760886056f8c8c9d02-4158C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789404564549402646",
+      "type": "Default",
+      "timestamp": "2020-12-18T08:11:54.616+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it\u0027s just 1 second",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2757note [785769697647263764].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789404609898741761",
+      "type": "Default",
+      "timestamp": "2020-12-18T08:12:05.428+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok",
+      "author": {
+        "id": "725690304157450281",
+        "name": "SwiPE",
+        "discriminator": "7728",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2757note [785769697647263764].json_Files\\d1ab933aa4ec06760886056f8c8c9d02-4158C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 9
+}
