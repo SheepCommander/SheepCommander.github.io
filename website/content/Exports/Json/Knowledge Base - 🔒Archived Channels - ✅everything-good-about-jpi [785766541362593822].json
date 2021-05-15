@@ -1,0 +1,396 @@
+{
+  "guild": {
+    "id": "648294947123888128",
+    "name": "Knowledge Base",
+    "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\a56bcbda5ea1db3e101c6895440d1c5b-CBC3F.png"
+  },
+  "channel": {
+    "id": "785766541362593822",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDD12Archived Channels",
+    "name": "\u2705everything-good-about-jpi",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "785766656899153920",
+      "type": "Default",
+      "timestamp": "2020-12-08T07:16:09.843+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "--= **Everything good about JPI** =--\nJust to show both sides of the coin, we also should have a channel for all the *good* things about him and all the good things he\u0027s done",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785766758074023946",
+      "type": "Default",
+      "timestamp": "2020-12-08T07:16:33.965+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u200B",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785766965385363466",
+      "type": "Default",
+      "timestamp": "2020-12-08T07:17:23.392+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well he did give @Hinge proper credit and ask for permission with the Iceologer scenario",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "738855167512018975",
+          "name": "Hinge",
+          "discriminator": 8362,
+          "nickname": "Hinge",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "785767118968455208",
+      "type": "Default",
+      "timestamp": "2020-12-08T07:18:00.009+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He makes tutorials with relatively high video production quality, although his english is not the best and I prefer his captions over his ovice",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785767397456871455",
+      "type": "Default",
+      "timestamp": "2020-12-08T07:19:06.406+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He did make an apology video for CW with self berating and admitting that what he did is wrong",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785767587875258409",
+      "type": "Default",
+      "timestamp": "2020-12-08T07:19:51.805+00:00",
+      "timestampEdited": "2020-12-08T07:20:25.849+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He does link/support a bunch of other channels",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [
+        {
+          "id": "785767586348400670",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\unknown-D1BE5.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 221589
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785767754279288832",
+      "type": "Default",
+      "timestamp": "2020-12-08T07:20:31.479+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "he also stopped dm ads 2 months ago",
+      "author": {
+        "id": "738855167512018975",
+        "name": "Hinge",
+        "discriminator": "8362",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\8da9abc1e39f35f416b38d083750b465-5D7D1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785767846436798534",
+      "type": "Default",
+      "timestamp": "2020-12-08T07:20:53.451+00:00",
+      "timestampEdited": "2020-12-08T17:43:51.592+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but that\u0027s not a good thing, it\u0027s just he decided to stop.\nlike if you suddenly stop killing people",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785887600820879400",
+      "type": "Default",
+      "timestamp": "2020-12-08T15:16:45.121+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#\u2705everything-good-about-jpi \n\n||**N o t h i n g**||",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785890100797112330",
+      "type": "Default",
+      "timestamp": "2020-12-08T15:26:41.162+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also Xisumavoid is the only good person in the featured channels",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785890162185601055",
+      "type": "Default",
+      "timestamp": "2020-12-08T15:26:55.798+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the rest either never watched or cringe as heck",
+      "author": {
+        "id": "684243354644643898",
+        "name": "\uD83C\uDF84DorkByAWaffle",
+        "discriminator": "5886",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\d0b08fcea7cf8b73c09662862dc54157-156FB.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786495921072242689",
+      "type": "Default",
+      "timestamp": "2020-12-10T07:33:59.971+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so since the chat is dead, I guess there aren\u0027t that much good about him?",
+      "author": {
+        "id": "349598495264735233",
+        "name": "Zefyro",
+        "discriminator": "2750",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\d9fcc819e263eddb136dd3798658d682-493BA.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786496387029270548",
+      "type": "Default",
+      "timestamp": "2020-12-10T07:35:51.064+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "209494852121919490",
+        "name": "VeSaucy",
+        "discriminator": "4506",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\6c055b53eb54ccb0fec5a8f7e72dc7e6-4F36B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786498272973553674",
+      "type": "Default",
+      "timestamp": "2020-12-10T07:43:20.708+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I suppose so",
+      "author": {
+        "id": "511656055974133780",
+        "name": "\uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9",
+        "discriminator": "1511",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\382b515765ba3155c7461c9842c0cb88-8D76B.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789053221704433666",
+      "type": "Default",
+      "timestamp": "2020-12-17T08:55:47.954+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "good thing: he gives a mean cock crushing",
+      "author": {
+        "id": "738855167512018975",
+        "name": "Hinge",
+        "discriminator": "8362",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\8da9abc1e39f35f416b38d083750b465-5D7D1.png"
+      },
+      "attachments": [
+        {
+          "id": "789053219569401866",
+          "url": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\4ojred-5496B.png",
+          "fileName": "4ojred.png",
+          "fileSizeBytes": 667138
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789109087492243467",
+      "type": "Default",
+      "timestamp": "2020-12-17T12:37:47.396+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lol true",
+      "author": {
+        "id": "725690304157450281",
+        "name": "SwiPE",
+        "discriminator": "7728",
+        "isBot": false,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\d1ab933aa4ec06760886056f8c8c9d02-4158C.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789390063322398732",
+      "type": "Default",
+      "timestamp": "2020-12-18T07:14:17.254+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "743862094134509578",
+        "name": "HelpMate",
+        "discriminator": "8798",
+        "isBot": true,
+        "avatarUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\a2a9a17251bbb594380a9b89108196a8-6CAA2.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A slowmode of 1s has been activated by a moderator.",
+          "url": null,
+          "timestamp": "2020-12-18T07:14:16.881+00:00",
+          "description": "",
+          "color": "#363940",
+          "footer": {
+            "text": "Applied by \uD83D\uDC11Sheep-kun; SheepCommander\u262D\uD83C\uDFA9#1511",
+            "iconUrl": "Knowledge Base - \uD83D\uDD12Archived Channels - \u2705everything-good-about-jpi [785766541362593822].json_Files\\382b515765ba3155c7461c9842c0cb88-2640B.webp"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 17
+}
